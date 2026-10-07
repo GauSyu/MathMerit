@@ -34,7 +34,7 @@ Cognitive improvement has four aspects: **Knowledge** concerns what is establish
 
 **All five assess contribution at the time.** The assessment concerns conditions for knowledge supplied at the relevant stage of the work, without waiting for uptake. The assessment can be contemporary or retrospective, reconstructing the original background. **Subsequent influence** is considered separately. Establish the broad historical context; examine precedence closely when it affects the judgment.
 
-Grades concern actual gains within a fixed comparison scope established by prior questions and literature. Theorem counts, terminology changes, and repeated examples do not raise grades. Each grade requires comparison and supporting grounds. Judgments may be provisional; incomplete checking does not imply no contribution, and known defects must be acknowledged.
+Grades concern actual gains within a fixed comparison scope established by prior questions and literature. Theorem counts, terminology changes, and repeated examples do not raise grades. Each grade requires comparison and supporting grounds. Assess ordinary contributions plainly; higher grades require reasons why the added cognitive benefit has the corresponding weight. Task completion, a problem’s reputation, and the scale of effort cannot substitute for those reasons. Judgments may be provisional; incomplete checking does not imply no contribution, and known defects must be acknowledged.
 
 ## Knowledge
 
@@ -49,7 +49,7 @@ New conclusions, corrections, clarified scope, and stronger grounds are Knowledg
 | **A Decisive Advance** | A key prior limitation is removed, establishing or correcting an unsettled judgment, or resolving a substantive defect in the grounds of an accepted conclusion. |
 | **Foundational Advance** | A fundamental advance in conclusions, scope, or supporting grounds establishes or rebuilds the basis of the relevant knowledge. |
 
-Additional cases and independent checks are graded by their actual gains. A single result can be foundational; counts of conclusions and proofs do not determine the grade.
+Additional cases and independent checks are graded by their actual gains. A single result can be foundational; counts of conclusions and proofs do not determine the grade. Making conditional knowledge unconditional is assessed by the change it brings to knowledge and research conditions, not automatically assigned the highest grade.
 
 ## Understanding
 
@@ -79,7 +79,7 @@ Methods concern improved capabilities in argument, construction, computation, an
 | **Limits Overcome** | A prior limitation is overcome, making a task feasible or substantively improving resource requirements and manageable scale. |
 | **Methods Transformed** | A capability gain becomes a justified system of operations, overcoming substantive obstacles across tasks or removing a key limitation shared by prior methods for one task class. |
 
-Arguments or computations in the text establish capability and reuse. Generality is not a prerequisite for the highest grade. Costs such as narrower scope or stronger assumptions accompany the gains.
+Arguments or computations in the text establish capability and reuse. Distinguish the use, adaptation, and invention of tools and approaches; grade combinations by their actual capability gains. Difficult searches and elaborate verification do not establish conceptual or methodological originality. Generality is not a prerequisite for the highest grade. Costs such as narrower scope or stronger assumptions accompany the gains.
 
 ## Exposition
 
@@ -111,9 +111,9 @@ Significance rests on the mathematical questions, judgments, connections, and re
 | **Limited Value** | Comparison establishes no added contribution, or gains concern only minor details. |
 | **A Worthwhile Contribution** | A specified question receives concrete benefits; the main research obstacles and conditions of understanding remain unchanged. |
 | **A Major Advance** | A key difficulty blocking a research route is removed, or understanding and treatment of mathematically connected objects, structures, or questions improve substantively. |
-| **A Major Breakthrough** | A major problem of its time is resolved, or the community's conditions for establishing, explaining, handling, or accessing important mathematics change fundamentally. |
+| **A Major Breakthrough** | The work’s actual contribution fundamentally changes the community’s conditions for establishing, explaining, handling, or accessing important mathematics, with concrete mathematical grounds demonstrating that change. |
 
-Concrete mathematical reasons support Significance; the other four grades do not calculate it. Knowledge, Understanding, Methods, and Exposition can each support a major contribution. Insufficient evidence does not justify the lowest significance grade.
+Significance rests on the specific change made by this work; the other four grades do not calculate it. A problem’s importance and anticipated impact cannot simply be transferred to the work solving it. Distinguish inherited connections, newly established consequences, and future expectations. Knowledge, Understanding, Methods, and Exposition can each support a major contribution; the value of solving a problem does not automatically establish conceptual or methodological originality. Insufficient evidence does not justify the lowest significance grade.
 
 AI can propose reasoned judgments of significance for mathematicians to assess; mathematicians decide whether the work merits time spent on research, study, or use.
 
@@ -125,4 +125,4 @@ Subsequent research reveals actual use, revision, development, and changes in kn
 
 We propose a five-axis diagram to make distinct contributions, differences, and limitations visible together. Its axes summarize Knowledge, Understanding, Methods, Exposition, and Significance. Named grades run from inner to outer; a complete contour may be filled. Grades are neither equally spaced measures nor additive, and area does not represent overall value. An assessment requires adequate grounds; when these cannot support a complete judgment, withhold the assessment.
 
-Written reasons support grades. Disagreements concern comparison material, arguments, and criteria. New evidence can change judgments.
+Written reasons support grades, and the diagram must match them exactly. Disagreements concern comparison material, arguments, and criteria. New evidence can change judgments.
