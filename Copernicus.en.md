@@ -123,6 +123,6 @@ Subsequent research reveals actual use, revision, development, and changes in kn
 
 ## The five-axis contribution profile
 
-We propose a five-axis diagram to make distinct contributions, differences, and limitations visible together. Its axes summarize Knowledge, Understanding, Methods, Exposition, and Significance. Named grades run from inner to outer; a complete contour may be filled. Grades are neither equally spaced measures nor additive, and area does not represent overall value. An assessment requires adequate grounds; when these cannot support a complete judgment, withhold the assessment.
+We propose a five-axis diagram to make distinct contributions, differences, and limitations visible together. Its axes summarize Knowledge, Understanding, Methods, Exposition, and Significance. The lowest grade lies at the origin; the other three grades lie on successive outer rings. Fill the contour where it encloses area; retain a point or line when it degenerates. Grades are neither equally spaced measures nor additive, and area does not represent overall value. An assessment requires adequate grounds; when these cannot support a complete judgment, withhold the assessment.
 
 Written reasons support grades, and the diagram must match them exactly. Disagreements concern comparison material, arguments, and criteria. New evidence can change judgments.

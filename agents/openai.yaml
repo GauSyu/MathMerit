@@ -1,4 +1,4 @@
 interface:
   display_name: "MathMerit"
   short_description: "Assess mathematical contributions with a five-axis profile."
-  default_prompt: "Use $mathmerit to assess this mathematical work using Copernicus, with reasons, a filled five-axis profile, and reading advice when the evidence supports a complete assessment."
+  default_prompt: "Use $mathmerit to assess this mathematical work using Copernicus, with reasons, a five-axis profile, and reading advice when the evidence supports a complete assessment."

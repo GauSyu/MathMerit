@@ -1,6 +1,6 @@
 ---
 name: mathmerit
-description: "Assess mathematical works or interdependent series for their contribution at the time using Copernicus, with an evidence-based five-axis profile, a filled grid, and reading advice."
+description: "Assess mathematical works or interdependent series for their contribution at the time using Copernicus, with an evidence-based five-axis diagram and reading advice."
 ---
 
 # MathMerit
@@ -31,7 +31,7 @@ Assess **Contribution at the time**, whether the work is recent or historical. R
 
 ## Present the judgment
 
-**Show the profile; preserve the reasons.** Once all five dimensions have supported grades, deliver a concise report and filled five-axis SVG in the selected language or languages. From the top clockwise: **Significance, Knowledge, Understanding, Methods, Exposition**. Take grade names from the corresponding language edition of Copernicus; English labels stand on their own rather than translating the Chinese labels afresh. Derive the report’s grade labels, diagram labels, and marker positions from one final grade record. Do not reassess or raise grades while drawing. Check agreement with the supporting reasoning before delivery. Never add grades, measure area, or infer an overall ranking.
+**Show the profile; preserve the reasons.** Once all five dimensions have supported grades, deliver a concise report and five-axis SVG in the selected language or languages. From the top clockwise: **Significance, Knowledge, Understanding, Methods, Exposition**. Take grade names from the corresponding language edition of Copernicus; English labels stand on their own rather than translating the Chinese labels afresh. Derive the report’s grade labels, diagram labels, and marker positions from one final grade record. Do not reassess or raise grades while drawing. Check agreement with the supporting reasoning before delivery. Never add grades, measure area, or infer an overall ranking.
 
 **Judge reading priority.** State whether and why the work merits the mathematical community's attention. Limited contribution and no recommendation for priority reading are valid conclusions. Identify worthwhile passages where supported; do not manufacture a recommendation. Personal-interest matching does not replace this judgment. Keep future expectations distinct from realized contributions; leave long-term influence to history.
 

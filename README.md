@@ -28,7 +28,7 @@ The five-axis diagram displays distinct contributions through named grades. Grad
 
 ## The skill
 
-[MathMerit](SKILL.md) automates the method. Provide a mathematical text or interdependent series, with its versions, to an AI assistant to obtain a reasoned assessment, a filled diagram, and reading advice under the [operating rules](references/profile-format.md).
+[MathMerit](SKILL.md) automates the method. Provide a mathematical text or interdependent series, with its versions, to an AI assistant to obtain a reasoned assessment, a diagram, and reading advice under the [operating rules](references/profile-format.md).
 
 Install this directory as `mathmerit` using your assistant's local skill installation mechanism. The English method, instructions, and diagram template support English use without consulting the Chinese edition; no separate language package is needed. Output follows your requested language, or the language of your request. Bilingual output is available on request.
 
