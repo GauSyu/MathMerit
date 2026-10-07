@@ -85,16 +85,18 @@ Arguments or computations in the text establish capability and reuse. Generality
 
 **Which obstacles to understanding, checking, and use are removed?**
 
-Exposition concerns new conditions for access supplied by the text: key ideas, connected reasoning, necessary background, and usable materials. Comparisons fix readers' prerequisites and tasks. The text supplies the evidence; uptake records are unnecessary.
+Mathematical texts are written for human readers. Exposition contributes through apt organization and selection that help readers grasp mathematical ideas and arguments, and thereby check and use them. Comparisons fix readers' prerequisites and purposes, examining how emphasis, detail, concepts, and notation serve those readers. The text supplies the evidence; uptake records are unnecessary.
 
 | Grade | Exposition criterion |
 |---|---|
-| **No Better Access** | No relevant obstacles are removed relative to existing materials. |
-| **Local Gains in Access** | Particular obstacles to understanding, checking, or use are reduced. |
-| **The Structure Made Clear** | Obstacles obscuring key ideas or dependencies are removed, allowing readers to follow reasoning they previously had to reconstruct. |
-| **Ready for Independent Use** | With the reasoning clear, missing materials, conditions, and limits that blocked independent checking or use are supplied, enabling the task without further explanation from the authors. |
+| **No Better Access** | Relative to existing materials, the exposition provides no added help in understanding, checking, or use. |
+| **Local Clarification** | Specific explanations, representations, or arrangements of materials make particular content easier to understand, check, or use. |
+| **The Structure Made Clear** | Apt organization of key ideas, arguments, and details helps readers distinguish what matters and grasp the roles and connections of the parts. |
+| **Depth Made Accessible** | Effective explanation, representation, or organization makes previously hard-to-convey core content clear without distortion, enabling readers to grasp its inner connections and crucial distinctions and substantively changing its intelligibility. |
 
-Duplicating an equally clear account adds no expository contribution. Explicitly available references can support independent use; complete self-containment is unnecessary. New understanding and better exposition are assessed separately.
+Readability does not mean effortless reading. Omission can bring ideas into focus; elaboration can clarify difficult points. Judge whether they guide meaningful thought. Complete materials, fluent prose, independent usability, or freedom from reconstructing arguments cannot alone support a high grade.
+
+Explanations supplied by the evaluator are not credited to the text. Explicitly available references and supporting materials can contribute to exposition; neither self-containment nor an elementary presentation is required. Duplicating an equally clear account adds no expository contribution. New mathematical understanding and improvements in conveying it are assessed separately.
 
 AI can make reasoned judgments on these four items from the text and historical evidence.
 
