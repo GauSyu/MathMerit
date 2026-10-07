@@ -70,14 +70,14 @@ The highest grade requires substantive reconstruction of prior understanding. Ne
 
 **Which tasks become feasible, and which costs fall?**
 
-Methods concern improved capabilities in argument, construction, computation, and verification. Comparisons match tasks, assumptions, accuracy, and resources. Scope, cost growth, and failure conditions jointly determine the gain.
+Methods concern improved capabilities in argument, construction, computation, and verification. A previously unsolved problem does not establish that existing methods were incapable of solving it; assess the result and the methodological gain separately. Comparisons match tasks, assumptions, accuracy, and resources. Scope, cost growth, and failure conditions jointly determine the gain.
 
 | Grade | Methods criterion |
 |---|---|
 | **No Improvement** | Under matching conditions, feasible operations and their costs do not improve. |
 | **Effective Refinement** | Specific steps, resource use, or operating conditions improve, with gains confined to particular aspects. |
-| **Limits Overcome** | A prior limitation is overcome, making a task feasible or substantively improving resource requirements and manageable scale. |
-| **Methods Transformed** | A capability gain becomes a justified system of operations, overcoming substantive obstacles across tasks or removing a key limitation shared by prior methods for one task class. |
+| **Limits Overcome** | A specific change in method overcomes a substantive limitation of prior methods in applicability, procedures, or resource requirements, making a task feasible or substantively improving resource requirements and manageable scale. |
+| **Methods Transformed** | A methodological capability gain becomes a justified system of operations, overcoming substantive methodological obstacles across tasks or removing a key limitation shared by prior methods for one task class. |
 
 Arguments or computations in the text establish capability and reuse. Distinguish the use, adaptation, and invention of tools and approaches; grade combinations by their actual capability gains. Difficult searches and elaborate verification do not establish conceptual or methodological originality. Generality is not a prerequisite for the highest grade. Costs such as narrower scope or stronger assumptions accompany the gains.
 
