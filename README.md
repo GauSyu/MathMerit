@@ -14,7 +14,7 @@ As AI4Math develops rapidly and papers multiply, which deserve a mathematician's
 
 ## The method
 
-[Copernicus](Copernicus.en.md) presents the method for the mathematical community to use, discuss, and revise: guiding principles, five dimensions, named grades, and a five-axis diagram. Grades and diagrams belong to the method itself, supporting human assessment as well as AI-assisted implementation. A [Chinese edition](Copernicus.md) is also available.
+[Copernicus](Copernicus.en.md) presents the method for the mathematical community to use, discuss, and revise: guiding principles, five dimensions, named grades, and a five-axis diagram. Grades and diagrams belong to the method itself, supporting human assessment as well as AI-assisted implementation. A [Chinese edition](Copernicus.zh-CN.md) is also available.
 
 | Dimension | Guiding question |
 |---|---|

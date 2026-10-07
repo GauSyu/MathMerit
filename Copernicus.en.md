@@ -5,7 +5,7 @@ date: "2026-10-07"
 
 # Principles for Evaluating Mathematical Contributions
 
-[中文](Copernicus.md)
+[中文](Copernicus.zh-CN.md)
 
 > *Es ist hiemit eben so, als mit den ersten Gedanken des Copernicus bewandt, der, nachdem es mit der Erklärung der Himmelsbewegungen nicht gut fort wollte, wenn er annahm, das ganze Sternheer drehe sich um den Zuschauer, versuchte, ob es nicht besser gelingen möchte, wenn er den Zuschauer sich drehen und dagegen die Sterne in Ruhe ließ.*
 

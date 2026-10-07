@@ -5,7 +5,7 @@ description: "Assess mathematical works for their contribution at the time using
 
 # MathMerit
 
-Read [Copernicus](Copernicus.en.md) for the complete method: principles, dimensions, ordered grades, and five-axis diagram. The [Chinese edition](Copernicus.md) provides the corresponding Chinese terminology; use the edition needed for the output language, or both for bilingual output. This skill implements that method. Use [profile-format.md](references/profile-format.md) for execution and reporting, and [profile-grid.svg](assets/profile-grid.svg) for drawing. Obtain missing criteria before grading; do not substitute remembered or superseded scales.
+Read [Copernicus](Copernicus.en.md) for the complete method: principles, dimensions, ordered grades, and five-axis diagram. The [Chinese edition](Copernicus.zh-CN.md) provides the corresponding Chinese terminology; use the edition needed for the output language, or both for bilingual output. This skill implements that method. Use [profile-format.md](references/profile-format.md) for execution and reporting, and [profile-grid.svg](assets/profile-grid.svg) for drawing. Obtain missing criteria before grading; do not substitute remembered or superseded scales.
 
 Use the language requested by the user; otherwise follow the request’s language, defaulting to English when unspecified. Produce bilingual output only when requested. Apply this choice to the report, status, and all diagram text.
 
