@@ -46,7 +46,7 @@ New conclusions, corrections, clarified scope, and stronger grounds are Knowledg
 |---|---|
 | **No Advance in Knowledge** | No improvement in conclusions, scope, or supporting grounds. |
 | **A Step Forward** | Particular conclusions, scope corrections, or stronger grounds are supplied, with gains confined to specific aspects. |
-| **A Decisive Advance** | A key prior limitation is removed, establishing or correcting an unsettled judgment, or resolving a substantive defect in the grounds of an accepted conclusion. |
+| **A Decisive Advance** | Establishing or correcting conclusions, clarifying scope, or strengthening supporting grounds removes a key obstacle in prior knowledge. |
 | **Foundational Advance** | A fundamental advance in conclusions, scope, or supporting grounds establishes or rebuilds the basis of the relevant knowledge. |
 
 Additional cases and independent checks are graded by their actual gains. A single result can be foundational; counts of conclusions and proofs do not determine the grade. Making conditional knowledge unconditional is assessed by the change it brings to knowledge and research conditions, not automatically assigned the highest grade.
@@ -85,7 +85,7 @@ Arguments or computations in the text establish capability and reuse. Distinguis
 
 **Which obstacles to understanding, checking, and use are removed?**
 
-Mathematical texts are written for human readers. Exposition contributes through apt organization and selection that help readers grasp mathematical ideas and arguments, and thereby check and use them. Comparisons fix readers' prerequisites and purposes, examining how emphasis, detail, concepts, and notation serve those readers. The text supplies the evidence; uptake records are unnecessary.
+Mathematical texts are written for human readers. Exposition contributes through apt organization and selection that help readers grasp mathematical ideas and arguments, and thereby check and use them. Comparisons fix readers' prerequisites and purposes, examining how emphasis, detail, concepts, and notation serve those readers. The text supplies the evidence; uptake records are unnecessary. Exposition grades measure gains over existing materials, not absolute reading difficulty.
 
 | Grade | Exposition criterion |
 |---|---|
@@ -126,3 +126,5 @@ Subsequent research reveals actual use, revision, development, and changes in kn
 We propose a five-axis diagram to make distinct contributions, differences, and limitations visible together. Its axes summarize Knowledge, Understanding, Methods, Exposition, and Significance. The lowest grade lies at the origin; the other three grades lie on successive outer rings. Fill the contour where it encloses area; retain a point or line when it degenerates. Grades are neither equally spaced measures nor additive, and area does not represent overall value. An assessment requires adequate grounds; when these cannot support a complete judgment, withhold the assessment.
 
 Written reasons support grades, and the diagram must match them exactly. Disagreements concern comparison material, arguments, and criteria. New evidence can change judgments.
+
+Contribution assessment supplies reasons for reading choices; grades do not translate directly into reading priority. When reading is not recommended, a brief reason suffices. When recommending reading, consider human readers’ background and purpose, identify the results, understanding, methods, or exposition worth acquiring, and suggest a suitable entry point.
