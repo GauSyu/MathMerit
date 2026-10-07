@@ -1,6 +1,6 @@
 ---
 name: mathmerit
-description: "Assess mathematical works for their contribution at the time using Copernicus, with an evidence-based five-axis profile, a filled grid, and reading advice."
+description: "Assess mathematical works or interdependent series for their contribution at the time using Copernicus, with an evidence-based five-axis profile, a filled grid, and reading advice."
 ---
 
 # MathMerit
@@ -12,6 +12,8 @@ Use the language requested by the user; otherwise follow the request’s languag
 ## Assess the contribution
 
 Assess **Contribution at the time**, whether the work is recent or historical. Reconstruct the community's context at each assessed item's appearance. Any separately requested assessment of **Subsequent influence** stays outside the five grades.
+
+**Assess the whole contribution.** Establish the unit before grading. When companion works jointly supply the definitions, arguments, methods, or exposition needed for a contribution, assess the bounded series together. Identify the included works and versions; shared authorship or topic alone does not make a series. Give one set of five grades and one diagram for the whole, explaining each part’s role without adding, averaging, or taking the maximum of per-paper grades. Follow the scope rules in the format reference.
 
 **Compare with its own time.** Begin with the broad research context and substantive precedents. Investigate precise chronology only when it could materially change the assessment, especially amid dense bursts of related AI-generated work. Public timestamps alone establish neither discovery order nor dependence; preserve uncertain precedence without withholding supported judgments. Follow the comparison procedure in the format reference.
 

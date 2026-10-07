@@ -28,11 +28,11 @@ The mathematical community consists of people engaged in mathematical research, 
 
 ## Basis of assessment
 
-The object is a specified version of a mathematical text and its supporting materials. The central question is: **Relative to knowledge available at the time, what improvement does this paper provide, and why does it matter?**
+The object is a mathematical work with specified versions, scope, and supporting materials. Interdependent works that jointly form a complete contribution should be assessed together; publication count does not determine the unit of assessment. The central question is: **Relative to knowledge available at the time, what improvement does this work provide, and why does it matter?**
 
 Cognitive improvement has four aspects: **Knowledge** concerns what is established; **Understanding**, how it is grasped; **Methods**, what can be done; and **Exposition**, how others can grasp it. **Significance** judges the mathematical weight of these improvements.
 
-**All five assess contribution at the time.** The assessment concerns conditions for knowledge supplied when the paper appeared, without waiting for uptake. The assessment can be contemporary or retrospective, reconstructing the original background. **Subsequent influence** is considered separately. Establish the broad historical context; examine precedence closely when it affects the judgment.
+**All five assess contribution at the time.** The assessment concerns conditions for knowledge supplied at the relevant stage of the work, without waiting for uptake. The assessment can be contemporary or retrospective, reconstructing the original background. **Subsequent influence** is considered separately. Establish the broad historical context; examine precedence closely when it affects the judgment.
 
 Grades concern actual gains within a fixed comparison scope established by prior questions and literature. Theorem counts, terminology changes, and repeated examples do not raise grades. Each grade requires comparison and supporting grounds. Judgments may be provisional; incomplete checking does not imply no contribution, and known defects must be acknowledged.
 
