@@ -82,6 +82,8 @@ After the reading recommendation and reasons, present the report’s five grades
 
 State **Reasons to read / 推荐理由** and **Reasons not to read / 不推荐理由**, then choose exactly one level below in the report’s language. Cite concrete benefits and costs; do not manufacture a positive reason or a defect for balance. Where no defensible reason exists on one side, say so. Judge the work for mathematicians concerned with the relevant questions, not the AI’s processing ability or an invented individual preference. State the readership and reading context; present-day advice on a historical work must not rewrite its contribution at the time.
 
+For each proposed reading benefit, cite the supporting passage or material, state what readers can gain, and explain why it is useful to the stated readership. A citation alone does not establish that benefit. Neither “experts may see value that the AI cannot identify” nor a generic possibility of learning something supports a recommendation. Read with Caution also requires this evidence: uncertainty about the payoff does not excuse an unidentified benefit. If the AI cannot understand the material well enough to establish the grounds, apply the insufficient-grounds rule rather than inventing a benefit or inferring that none exists.
+
 | 中文等级 | 中文判据 | English level | English criterion |
 |---|---|---|---|
 | **强烈推荐** | 任何关心相关问题的数学家都能从阅读本工作中受益。 | **Strongly Recommended** | Any mathematician concerned with the relevant questions can benefit from reading this work. |
