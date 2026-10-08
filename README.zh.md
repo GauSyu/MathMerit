@@ -14,9 +14,7 @@
 
 ## 依据与用途
 
-[Copernicus](https://github.com/GauSyu/Copernicus) 是独立的、面向人类的数学贡献评价倡议。MathMerit 参考其五个维度和等级判据；两者的目的、报告及图模板分别维护。MathMerit 的图呈现供阅读筛选参考的 AI 推测，不是 Copernicus 的贡献评价图。
-
-每次评价从 Copernicus 获取最新的[英文正文](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.en.md)或[中文正文](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.zh.md)，并在报告中记录实际采用的提交版本。MathMerit 不保留倡议副本。阅读推荐规则由 MathMerit 自行维护。
+[Copernicus](https://github.com/GauSyu/Copernicus) 是面向人类的数学贡献评价倡议。MathMerit 采用其五个维度与等级判据；所得评级与图表是供阅读筛选参考的 AI 推测，不构成对数学工作质量的评定。
 
 ## 使用
 

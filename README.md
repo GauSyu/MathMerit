@@ -14,9 +14,7 @@ The reading-selection report gives a recommendation with reasons for and against
 
 ## Basis and scope
 
-[Copernicus](https://github.com/GauSyu/Copernicus) is an independent, human-facing proposal for evaluating mathematical contributions. MathMerit draws on its five dimensions and grade criteria; the two projects maintain different purposes, reports, and diagram templates. MathMerit's diagram displays AI inferences for reading selection, not a Copernicus contribution assessment.
-
-Each assessment retrieves the latest [English](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.en.md) or [Chinese](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.zh.md) proposal from Copernicus and records the exact commit used. MathMerit keeps no copy of the proposal. Reading recommendations remain specific to MathMerit.
+[Copernicus](https://github.com/GauSyu/Copernicus) is a human-facing proposal for evaluating mathematical contributions. MathMerit uses its five dimensions and grade criteria; the resulting grades and diagram are AI inferences for reading selection, not assessments of mathematical quality.
 
 ## Use
 
