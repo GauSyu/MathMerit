@@ -1,4 +1,4 @@
-# Reading-selection report and supporting contribution grid
+# MathMerit report and supporting contribution grid
 
 Retrieve the latest Copernicus edition for the output language following SKILL.md; English use needs only the English edition. The grade definitions at the resolved commit govern the five provisional inferences. MathMerit owns this reading-selection report and diagram; the diagram is not interchangeable with a contribution assessment made under the independent Copernicus proposal.
 
@@ -66,7 +66,7 @@ A warning does not permit an invented grade: absent grounds for any dimension, w
 
 Submit only when all five dimensions have supported grades. Otherwise return only a brief “Assessment withheld: insufficient grounds” notice (Chinese: “不予评价：依据不足”) in the selected language, identifying the missing grounds and what would resolve them. Do not deliver grades, partial assessments, evaluative reading advice, or a diagram. Labeling a judgment provisional or conditional does not waive this requirement.
 
-Title the document **<Work> — Reading-selection report** (Chinese: **《工作名称》阅读筛选报告**). Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
+Use a report title identifying the work and MathMerit. Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
 
 > **This report consists solely of AI inferences · For reading selection only · Not an assessment of mathematical quality**
 
