@@ -1,4 +1,4 @@
-# MathMerit report and supporting contribution grid
+# MathMerit assessment and reporting rules
 
 Use the Copernicus version obtained under SKILL.md for contribution grades. The rules below govern evidence, reading recommendations, and reporting; the report’s purpose does not alter Copernicus’s grade criteria.
 
@@ -25,29 +25,24 @@ For a series, relate each gain to the research context when it became supported.
 
 An open comparison may still permit a supported provisional or conditional grade. If it prevents grading a dimension, withhold that grade and explain the affected comparison; determine reading advice separately under the output rules below. State novelty relative to the sources actually compared and the search actually performed.
 
-## Grades and judgment provenance
+## Evidence gaps and output decisions
 
-Use the ordered grades and full conditions in the retrieved Copernicus edition. Assess each dimension separately: the same material can support several dimensions only through distinct gains. Genre, authorship, and terminology cannot substitute for a demonstrated gain; actual uptake is not required. Significance concerns the weight of the gains, not a calculation from the other four grades. Determine the prior state and actual gain before assigning a grade. For each proposed grade above the lowest, give the concrete gain, supporting passages and comparison, and explain why the next lower grade understates that gain and how the proposed grade's defining conditions are met. This does not require cumulative satisfaction of differently worded lower-grade criteria. Calling a change key, substantial, or foundational does not establish the distinction; show what changed. Keep the comparison scope fixed rather than shrinking it to make the result appear fundamental. Do not treat the five dimensions as a common scale.
-
-Supported low grades across all five dimensions, including all five lowest grades, are a normal result. Do not compensate with upgrades, manufactured praise, or enlarged radii. Low grades are neither a quota nor a substitute for missing grounds; apply the output decisions below. A finding of no improvement concerns only its dimension. Retain material gains and costs omitted by the grades.
-
-For Knowledge, identify the change in conclusions, scope, or supporting grounds. For A Decisive Advance, identify the key prior obstacle, the mathematical judgments it constrained, and how the work removes it; a previously unsettled statement becoming proved is insufficient by itself. For Foundational Advance, show which basis of knowledge is established or rebuilt and why removing a particular obstacle understates that change. Neither grade requires a new method. For Understanding, identify the added conceptual distinction, relation, or explanation relative to prior understanding; rewording alone does not establish such a gain, and the evaluator's own explanation cannot be credited to the work. In each case, justify the scale of that change under the method's criteria. Work with no new conclusions can still strengthen grounds or improve understanding, methods, or exposition.
-
-Separate inherited knowledge and approaches from the work’s actual additions before grading. For problem-solving work, identify the exact question and scope resolved, the obstacle removed, and the resulting change in mathematical knowledge or research conditions. Explain why that change supports the proposed grade; neither a celebrated problem nor completion of a proof settles its magnitude. A known implication may become newly established when its premise is proved: check the hypotheses and credit that change, not discovery of the already-known implication or its promised future applications.
-
-For Methods, match tasks, assumptions, accuracy, and resources; argument and construction count alongside computation and verification. Identify what is inherited, combined, adapted, or newly designed, and where a claimed capability gain is established. For either of the upper two Methods grades, establish the chain: limitation of prior methods → specific change in method → resulting capability gain. Ground the limitation in the procedures, assumptions, or resource demands of those methods; the absence of an earlier completed solution is insufficient. A formal impossibility proof or complexity lower bound is not required. Completing a new instance through unchanged procedures, more search, or more verification does not by itself demonstrate this chain. Successful assembly alone does not prove an original method; a combination can still have substantive value. Search volume, verification effort, and technical complexity are not proxies for conceptual novelty or significance. Do not dismiss a valuable result merely because its methods are familiar. Weigh stronger assumptions, narrower scope, added costs, and learning demands wherever they affect the gain.
-
-For Exposition, justify the intended human readers and purposes from the work and its context, then hold them fixed in comparison. Consider finite attention and working memory: how do emphasis, sequencing, notation, and the placement of detail help readers grasp ideas and follow arguments? Judge omissions and elaborations by their purpose and the readers’ background, not by their amount. Use the same mathematical content, intended readers, and purpose to distinguish necessary learning effort from avoidable effort introduced by the text. Extensive prerequisites required by the topic are background requirements, not defects of the work. Poor expression or organization that adds unnecessary effort is a textual defect; identify the passages and the avoidable burden rather than excusing it as mathematical depth. Required thought or reconstruction is not itself an expository defect; exhaustive explanation is not itself a benefit.
-
-Support the grade with representative central passages and a comparison showing how their organization or selection helps readers. Distinguish help supplied by the text and explicitly available materials from connections, motivations, or reorganizations you supply yourself. A fluent AI summary is not evidence that the source is readable. Examine obscured priorities, needless terminology, repetition, or distracting detail where present; do not assume them from length or authorship.
-
-For the highest grade, identify the difficult core content and the expressive choices that make its connections or distinctions accessible without distortion. Completeness, independent usability, or isolated polished passages do not establish this. Improvements in checking and use remain contributions, not mandatory endpoints. Do not require elementary exposition, self-containment, actual uptake, or human approval before making a supported judgment.
+### Correctness and dependencies
 
 Separate contribution grades from correctness-checking status. Evaluate the available arguments, state checks actually performed and what remains unchecked. Incomplete checking alone does not lower a supported grade or require abstention. A conditional grade names its key dependency and what fails with it; an assumed future repair cannot supply missing grounds. Trace known defects to dependent claims, preserving independent gains, under the evidence-gap rules below.
 
-For Significance, explain which mathematical questions or research conditions are affected and why that matters; neither breadth nor the other four grades determines it. Retain the source, scope, and reasons of a supplied human judgment. Map it to a grade only when the criteria support that mapping; do not silently strengthen it. If an ungraded opinion leaves the grade open, preserve the opinion and identify any AI-supplied grade as provisional. No clear human judgment means an AI provisional judgment, not automatic abstention. Report disagreements explicitly rather than averaging them. Community evaluation of a paper and community evaluation of this assessment are distinct.
+### Diagnose evidence gaps
 
-## Reliability of AI judgments
+Before treating a material evidence gap as a reason to withhold a judgment, identify its cause and the claims or reading benefits it affects:
+
+- **Access limitation:** necessary material could not be obtained. Name the unavailable source and affected judgments; unavailability to this evaluator does not establish a defect in the work.
+- **Evaluator limitation:** the material is available, but the evaluator cannot understand or assess it sufficiently. Identify the unresolved inference without attributing the difficulty to the work or treating it as evidence of low contribution.
+- **Missing support in the work:** a claim lacks a necessary definition, argument, or other promised support. Check the relevant passages and explicitly supplied or cited supporting materials before concluding that support is absent. Identify what is missing, why the work needs to supply or substantiate it, and which claims or benefits fail without it. A known gap is not merely an unchecked proof, and a future repair cannot support a present conditional grade.
+- **Obstructive presentation:** the supplied text imposes avoidable effort on, or obstructs, the intended readers in locating, understanding, or checking the claimed benefit. Identify the passages or organization responsible, the reasonable reader expectation, and the resulting effort or loss of benefit. Respect the work’s purpose and stated prerequisites; neither necessary mathematical difficulty nor the evaluator’s difficulty alone establishes this defect.
+
+Causes may coexist. Preserve uncertainty about attribution when the evidence does not settle it. Trace established defects to their dependent claims and reading benefits, retaining independent gains. Include work-caused deficiencies in the reading costs and recommendation; an undetermined contribution grade must not conceal them. Do not infer that no benefit exists merely because the evaluator cannot identify one.
+
+### Reliability of AI judgments
 
 Reliability concerns a particular inference and its evidence, not a dimension as a whole. Mark AI-assigned grades as **AI inference / AI 推测**. In each entry, distinguish the source-grounded observation from the inference that supports the grade; do not treat model confidence or agreement as verification.
 
@@ -62,16 +57,7 @@ When an inference exceeds what AI can reasonably establish, label that claim **U
 
 A warning cannot replace missing grounds. Supported but fallible interpretations can be reported with their limits; lack of support for a higher grade does not block a supported lower grade. Reading advice must rest on inspectable benefits and costs, not on an unreliable grade or claim.
 
-## Evidence gaps and output decisions
-
-Before treating a material evidence gap as a reason to withhold a judgment, identify its cause and the claims or reading benefits it affects:
-
-- **Access limitation:** necessary material could not be obtained. Name the unavailable source and affected judgments; unavailability to this evaluator does not establish a defect in the work.
-- **Evaluator limitation:** the material is available, but the evaluator cannot understand or assess it sufficiently. Identify the unresolved inference without attributing the difficulty to the work or treating it as evidence of low contribution.
-- **Missing support in the work:** a claim lacks a necessary definition, argument, or other promised support. Check the relevant passages and explicitly supplied or cited supporting materials before concluding that support is absent. Identify what is missing, why the work needs to supply or substantiate it, and which claims or benefits fail without it. A known gap is not merely an unchecked proof, and a future repair cannot support a present conditional grade.
-- **Obstructive presentation:** the supplied text imposes avoidable effort on, or obstructs, the intended readers in locating, understanding, or checking the claimed benefit. Identify the passages or organization responsible, the reasonable reader expectation, and the resulting effort or loss of benefit. Respect the work’s purpose and stated prerequisites; neither necessary mathematical difficulty nor the evaluator’s difficulty alone establishes this defect.
-
-Causes may coexist. Preserve uncertainty about attribution when the evidence does not settle it. Trace established defects to their dependent claims and reading benefits, retaining independent gains. Include work-caused deficiencies in the reading costs and recommendation; an undetermined contribution grade must not conceal them. Do not infer that no benefit exists merely because the evaluator cannot identify one.
+### Decide what can be reported
 
 Decide each output on its own evidence:
 
@@ -83,24 +69,41 @@ Decide each output on its own evidence:
 
 An unavailable or incompatible Copernicus edition blocks the affected grading as specified in SKILL.md, not reading advice independently supported under MathMerit’s criteria. Report the access or compatibility limitation rather than inventing grade criteria or version metadata. A reading recommendation never authorizes filling a missing grade. Provisional or conditional language does not waive any evidence requirement. If neither grading nor reading advice is supported, return a brief notice explaining the evidence gaps and any established findings, without grades, a recommendation level, or a diagram.
 
-## Report
+## Grades and judgment provenance
 
-Use a report title identifying the work and MathMerit. Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
+### Common rules
 
-> **This report consists solely of AI inferences · For reading selection only · Not an assessment of mathematical quality**
+Use the ordered grades and full conditions in the retrieved Copernicus edition. Assess each dimension separately: the same material can support several dimensions only through distinct gains. Genre, authorship, and terminology cannot substitute for a demonstrated gain; actual uptake is not required. Significance concerns the weight of the gains, not a calculation from the other four grades. Determine the prior state and actual gain before assigning a grade. For each proposed grade above the lowest, give the concrete gain, supporting passages and comparison, and explain why the next lower grade understates that gain and how the proposed grade's defining conditions are met. This does not require cumulative satisfaction of differently worded lower-grade criteria. Calling a change key, substantial, or foundational does not establish the distinction; show what changed. Keep the comparison scope fixed rather than shrinking it to make the result appear fundamental. Do not treat the five dimensions as a common scale.
 
-> **本报告纯属 AI 推测 · 仅供阅读筛选 · 不构成质量评定**
+Supported low grades across all five dimensions, including all five lowest grades, are a normal result. Do not compensate with upgrades, manufactured praise, or enlarged radii. Low grades are neither a quota nor a substitute for missing grounds; apply [output decisions](#decide-what-can-be-reported). A finding of no improvement concerns only its dimension. Retain material gains and costs omitted by the grades.
 
-Unless community evaluation of this assessment is documented, include **Assessment status: Not evaluated by the mathematical community** (Chinese: **评价状态：未经过共同体评价**). One person’s opinion is not community evaluation; evaluation of the work is not evaluation of this report. Preserve the scope of any documented input. Keep status and attribution outside the diagram.
+Separate inherited knowledge and approaches from the work’s actual additions before grading. For problem-solving work, identify the exact question and scope resolved, the obstacle removed, and the resulting change in mathematical knowledge or research conditions. Explain why that change supports the proposed grade; neither a celebrated problem nor completion of a proof settles its magnitude. A known implication may become newly established when its premise is proved: check the hypotheses and credit that change, not discovery of the already-known implication or its promised future applications.
 
-Establish evidence before assigning grades or a recommendation; neither conclusion may manufacture support for the other. Present the report in this order:
+Justify the scale of each gain under Copernicus’s criteria. Work with no new conclusions can still strengthen grounds or improve understanding, methods, or exposition.
 
-1. **Scope and sources.** Identify the work or bounded series and versions, intended readership, reading purpose and context, and report date. Record the Copernicus document date, resolved SHA, and commit-specific links, or the retrieval/compatibility failure. Identify contribution analysis as **Contribution at the time**, with its historical context and compact comparison record; keep separately requested later influence outside these grades.
-2. **Contribution analysis.** In diagram order—Significance, Knowledge, Understanding, Methods, Exposition—give each supported grade, concrete grounds for its level, evidence locators, and material limits. Identify ungraded dimensions under the output rules. Distinguish observations, AI inferences, and attributed human judgments; apply reliability warnings where needed. Shared checking notes need not be repeated.
-3. **Diagram, when eligible.** Derive labels and positions from the final grade record using the grid rules below. Include the ordered grade names to make positions interpretable.
-4. **Reading reasons and recommendation.** Weigh concrete benefits and costs under the next section, then state the supported recommendation or explain why it is undetermined. Follow with reading entry points only when warranted by that recommendation.
+### Knowledge
 
-Close every report or evidence-gap notice with **Model: <actual model identifier> · Skill: [MathMerit](https://github.com/GauSyu/MathMerit)**, translated into the report’s language. Use the model identity exposed by the runtime or explicitly supplied for this run; do not infer it from the app name, skill metadata, or an earlier report. If the version cannot be confirmed, say so. Identify distinct contributing models if applicable. The signature names the report generator, not the work’s author or a human evaluator.
+For Knowledge, identify the change in conclusions, scope, or supporting grounds. For A Decisive Advance, identify the key prior obstacle, the mathematical judgments it constrained, and how the work removes it; a previously unsettled statement becoming proved is insufficient by itself. For Foundational Advance, show which basis of knowledge is established or rebuilt and why removing a particular obstacle understates that change. Neither grade requires a new method.
+
+### Understanding
+
+For Understanding, identify the added conceptual distinction, relation, or explanation relative to prior understanding; rewording alone does not establish such a gain, and the evaluator's own explanation cannot be credited to the work.
+
+### Methods
+
+For Methods, match tasks, assumptions, accuracy, and resources; argument and construction count alongside computation and verification. Identify what is inherited, combined, adapted, or newly designed, and where a claimed capability gain is established. For either of the upper two Methods grades, establish the chain: limitation of prior methods → specific change in method → resulting capability gain. Ground the limitation in the procedures, assumptions, or resource demands of those methods; the absence of an earlier completed solution is insufficient. A formal impossibility proof or complexity lower bound is not required. Completing a new instance through unchanged procedures, more search, or more verification does not by itself demonstrate this chain. Successful assembly alone does not prove an original method; a combination can still have substantive value. Search volume, verification effort, and technical complexity are not proxies for conceptual novelty or significance. Do not dismiss a valuable result merely because its methods are familiar. Weigh stronger assumptions, narrower scope, added costs, and learning demands wherever they affect the gain.
+
+### Exposition
+
+For Exposition, justify the intended human readers and purposes from the work and its context, then hold them fixed in comparison. Consider finite attention and working memory: how do emphasis, sequencing, notation, and the placement of detail help readers grasp ideas and follow arguments? Judge omissions and elaborations by their purpose and the readers’ background, not by their amount. Use the same mathematical content, intended readers, and purpose to distinguish necessary learning effort from avoidable effort introduced by the text. Extensive prerequisites required by the topic are background requirements, not defects of the work. Poor expression or organization that adds unnecessary effort is a textual defect; identify the passages and the avoidable burden rather than excusing it as mathematical depth. Required thought or reconstruction is not itself an expository defect; exhaustive explanation is not itself a benefit.
+
+Support the grade with representative central passages and a comparison showing how their organization or selection helps readers. Distinguish help supplied by the text and explicitly available materials from connections, motivations, or reorganizations you supply yourself. A fluent AI summary is not evidence that the source is readable. Examine obscured priorities, needless terminology, repetition, or distracting detail where present; do not assume them from length or authorship.
+
+For the highest grade, identify the difficult core content and the expressive choices that make its connections or distinctions accessible without distortion. Completeness, independent usability, or isolated polished passages do not establish this. Improvements in checking and use remain contributions, not mandatory endpoints. Do not require elementary exposition, self-containment, actual uptake, or human approval before making a supported judgment.
+
+### Significance
+
+For Significance, explain which mathematical questions or research conditions are affected and why that matters; neither breadth nor the other four grades determines it. Retain the source, scope, and reasons of a supplied human judgment. Map it to a grade only when the criteria support that mapping; do not silently strengthen it. If an ungraded opinion leaves the grade open, preserve the opinion and identify any AI-supplied grade as provisional. No clear human judgment means an AI provisional judgment, not automatic abstention. Report disagreements explicitly rather than averaging them. Community evaluation of a paper and community evaluation of this assessment are distinct.
 
 ## Reading recommendation
 
@@ -122,6 +125,25 @@ Use the Exposition distinction between necessary prerequisites and avoidable tex
 Human attention is limited. Assess how readers can locate the actual addition, understand its role, and inspect its grounds; the AI’s reconstruction does not count as help supplied by the text. Exposition grades measure comparative gains, not absolute readability. Distinguish learning a result, acquiring an explanation or technique, and checking a claim. A claim’s importance can motivate checking without establishing its contribution. If a Major Breakthrough grade accompanies Not Worth Reading in the same period for relevant readers, resolve the conflicting reasons before submission; do not automatically inflate the recommendation or downgrade the grade. Not needing the whole paper, preferring another exposition, or lacking prerequisites is not a blanket judgment of no reading value.
 
 For Strongly Recommended or Worth a Look, briefly identify the gains, suitable entry points, and necessary background; give a dependency-aware order for a series. For Read with Caution, explain the risks and any bounded reading that may be worthwhile without promising a payoff. For Not Worth Reading, the reading-advice section contains only the reasons and overall judgment; add no reading route or speculative consolation benefits.
+
+## Report
+
+Use a report title identifying the work and MathMerit. Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
+
+> **This report consists solely of AI inferences · For reading selection only · Not an assessment of mathematical quality**
+
+> **本报告纯属 AI 推测 · 仅供阅读筛选 · 不构成质量评定**
+
+Unless community evaluation of this assessment is documented, include **Assessment status: Not evaluated by the mathematical community** (Chinese: **评价状态：未经过共同体评价**). One person’s opinion is not community evaluation; evaluation of the work is not evaluation of this report. Preserve the scope of any documented input. Keep status and attribution outside the diagram.
+
+Establish evidence before assigning grades or a recommendation; neither conclusion may manufacture support for the other. Present the report in this order:
+
+1. **Scope and sources.** Identify the work or bounded series and versions, intended readership, reading purpose and context, and report date. Record the Copernicus document date, resolved SHA, and commit-specific links, or the retrieval/compatibility failure. Identify contribution analysis as **Contribution at the time**, with its historical context and compact comparison record; keep separately requested later influence outside these grades.
+2. **Contribution analysis.** In diagram order—Significance, Knowledge, Understanding, Methods, Exposition—give each supported grade, concrete grounds for its level, evidence locators, and material limits. Identify ungraded dimensions under the output rules. Distinguish observations, AI inferences, and attributed human judgments; apply reliability warnings where needed. Shared checking notes need not be repeated.
+3. **Diagram, when eligible.** Derive labels and positions from the final grade record using the grid rules below. Include the ordered grade names to make positions interpretable.
+4. **Reading reasons and recommendation.** Weigh concrete benefits and costs under [Reading recommendation](#reading-recommendation), then state the supported recommendation or explain why it is undetermined. Follow with reading entry points only when warranted by that recommendation.
+
+Close every report or evidence-gap notice with **Model: <actual model identifier> · Skill: [MathMerit](https://github.com/GauSyu/MathMerit)**, translated into the report’s language. Use the model identity exposed by the runtime or explicitly supplied for this run; do not infer it from the app name, skill metadata, or an earlier report. If the version cannot be confirmed, say so. Identify distinct contributing models if applicable. The signature names the report generator, not the work’s author or a human evaluator.
 
 ## Five-axis grid
 
