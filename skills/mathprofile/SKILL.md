@@ -37,7 +37,7 @@ Resolve the script relative to this installed skill; the repository is not neede
 }
 ```
 
-`language` accepts `zh`, `en`, or `bilingual`; grade values may use either language's exact name. Optional `context` is `contribution` by default, producing the neutral title **Mathematical contribution profile / 数学贡献五维图**. Use `ai-reading-selection` only when the supplied assessment explicitly calls for that identity, as MathMerit does. AI assistance in drawing a person's grades does not make the assessment AI-generated. Attribution and evaluation status belong in the accompanying text; do not invent them.
+`language` accepts `zh`, `en`, or `bilingual`; grade values may use either language's exact name. Optional `context` is `contribution` by default, producing the neutral title **Mathematical contribution profile / 数学贡献五维图**. Use `ai-reading-selection` only when the supplied assessment explicitly calls for that identity, including MathMerit's AI reading-selection reports. AI assistance in drawing a person's grades does not make the assessment AI-generated. Attribution and evaluation status belong in the accompanying text; do not invent them.
 
 The renderer rejects incomplete or invalid grades before creating output, and refuses to replace an existing file unless `--overwrite` is deliberately supplied for an authorized revision. A validation error calls for correcting the input, not changing the grade to make it fit.
 

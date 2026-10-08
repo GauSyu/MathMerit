@@ -1,4 +1,4 @@
 interface:
   display_name: "MathMerit"
-  short_description: "Help mathematicians select mathematical works worth reading."
-  default_prompt: "Use $mathmerit to analyze this mathematical work and help me decide whether it is worth reading, with evidence-based reasons and clear limits on the judgments."
+  short_description: "Assess mathematical work, choose readings, and revise judgments."
+  default_prompt: "Use $mathmerit to assess this mathematical work, help me decide what to read, and examine or revise particular judgments with evidence and clearly attributed human and AI input."

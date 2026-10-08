@@ -1,8 +1,8 @@
 # MathMerit assessment and reporting rules
 
-These rules implement Copernicus for AI-assisted reading selection. The complete contribution criteria are included below alongside their application guidance; the report's purpose does not change their thresholds.
+These rules implement Copernicus for human-centered mathematical assessment with AI, from reading selection to continued checking and discussion. The complete contribution criteria are included below; neither the purpose nor the depth of human participation changes their thresholds. The five-dimensional scheme is one implementation of the initiative, not its only possible form.
 
-**Criteria revision: MM-C1.** Source: Gau·Syu, *A Copernican Initiative for Assessing Mathematical Work*, dated 2026-10-07, [revision 6d26d76](https://github.com/GauSyu/Copernicus/tree/6d26d765a94d843489246bc79e467ecf5f700421). This is source attribution, not a runtime dependency. Changes to the source are incorporated through skill maintenance, with a new criteria revision after checking the definitions, guidance, and diagram mapping together.
+**Criteria and reporting revision: MM-C2 (2026-10-09).** This revision incorporates the Copernicus initiative and its separate assessment scheme from the dated source revision identified in [source-revision.md](source-revision.md). All five bilingual grade tables, their thresholds, the four reading levels, and the renderer mapping are retained from MM-C1. Participation, attribution, and reporting are updated. The bundled rules govern runtime; source attribution is not an external dependency. Incorporate later source changes only through maintenance that checks criteria, guidance, and diagram mapping together.
 
 ## Principles
 
@@ -14,6 +14,26 @@ Mathematical contributions serve the mathematical community's knowledge and unde
 - **Value exposition / 重视表达.** Added help in understanding, checking, or using mathematics is itself a contribution.
 - **Weigh gains and limitations / 兼顾得失.** Account for restrictions, assumptions, and costs alongside benefits; do not collapse them into a total score.
 - **Leave long-term influence to history / 影响待验.** Grade contributions already made. Later adoption and influence belong in a separate historical discussion, and expected future influence earns no present credit.
+
+## Participation and revision
+
+Reading selection is already a useful form of human–AI mathematical assessment. AI may complete an evidence-based first response on its own; people may use it, question one comparison, contribute reading experience, or help examine the mathematics more deeply. Continue the same assessment at the requested depth. Do not require human review, expert approval, collective certification, or completion of predetermined stages before delivering supported findings.
+
+AI can locate prior work, trace dependencies, compare gains, and set out reasons and doubts. People familiar with the mathematics can examine crucial comparisons, arguments, and the significance of the gains. Learners, teachers, and users can contribute relevant experience of understanding or using the text; state their background and the passages and purposes to which that experience applies. Either humans or AI may propose and challenge factual comparisons and judgments of value. Neither identity nor confidence substitutes for reasons; one reader's response is not a community-wide result. Do not require a reader experiment to make a supported exposition judgment.
+
+Use the particular judgment as the unit of attribution and revision. For material judgments, preserve in prose or, when useful, a compact table:
+
+- The claim, work/version, and comparison baseline.
+- Evidence locators, conditions, and the reasoning from evidence to the judgment.
+- Who supplied an opinion or inference, what was actually checked by a person or AI, and the scope of that checking.
+- Material limitations, unresolved comparisons, and reasoned disagreements, including which conclusions depend on them.
+- On revision, what changed and why, retaining still-valid findings and the reasons for the superseded judgment.
+
+These are information needs, not a mandatory database or form for every answer. AI origin, evidence support, and incomplete checking can all describe the same judgment. Distinguish an attributed human opinion from verified premises and from any AI inference drawn from it. Preserve the person's meaning; do not attribute your extrapolation to them. A general expression of agreement records only that agreement, and silence records no endorsement. Human participation alone raises neither a grade nor reliability. Claims of community agreement require evidence of its actual scope; assessment of the work and assessment of this report are different matters.
+
+For a follow-up, address the contested finding first, check the relevant new evidence, and update only affected comparisons, grades, advice, and diagrams. Withdraw unsupported claims explicitly and revisit their dependents. Preserve independently supported gains. Record the previous and revised conclusions with reasons in the existing report or a concise revision note when maintaining an artifact; do not require a new file for each turn. Earlier reports remain governed by their stated revision unless the user requests reassessment.
+
+Retain reasoned disagreements without averaging grades or demanding agreement to finish. If alternative grades each have an explicit evidential or conditional basis, explain their reasons and limits separately. Do not present a single settled grade or a diagram as consensus where none exists. Follow the diagram rules for any clearly attributed alternative complete profile.
 
 ## Unit of assessment
 
@@ -57,7 +77,7 @@ Causes may coexist. Preserve uncertainty about attribution when the evidence doe
 
 ### Reliability of AI judgments
 
-Reliability concerns a particular inference and its evidence, not a dimension as a whole. Mark AI-assigned grades as **AI inference / AI 推测**. In each entry, distinguish the source-grounded observation from the inference that supports the grade; do not treat model confidence or agreement as verification.
+Reliability concerns a particular inference and its evidence, not a dimension as a whole. Identify AI-assigned grades as **AI inference / AI 推测**; a shared attribution may cover several clearly identified entries without repeating a label on each. Preserve any recorded human examination of an AI proposal at its actual scope rather than labeling the whole assessment as purely AI. Follow [Participation and revision](#participation-and-revision) for all dimensions and reading judgments. In each entry, distinguish the source-grounded observation from the inference that supports the grade; do not treat model confidence or agreement as verification.
 
 The following require particular scrutiny; they are risk indicators, not measured accuracy rankings:
 
@@ -72,7 +92,7 @@ A warning cannot replace missing grounds. Supported but fallible interpretations
 
 ### Decide what can be reported
 
-Decide each output on its own evidence:
+For the outputs relevant to the request, decide each on its own evidence; a focused answer need not supply the other outputs:
 
 | Output | Evidence requirement and action |
 |---|---|
@@ -155,7 +175,7 @@ For Significance, explain which mathematical questions or research conditions ar
 
 ## Reading recommendation
 
-For a supported recommendation, state **Reasons to read / 推荐理由** and **Reasons not to read / 不推荐理由**, then choose exactly one level below in the report’s language. Cite concrete benefits and costs; do not manufacture a positive reason or a defect for balance. Where no defensible reason exists on one side, say so. Judge the work for mathematicians concerned with the relevant questions, not the AI’s processing ability or an invented individual preference. State the readership and reading context; present-day advice on a historical work must not rewrite its contribution at the time.
+When a reading recommendation is requested or relevant, for a supported recommendation state **Reasons to read / 推荐理由** and **Reasons not to read / 不推荐理由**, then choose exactly one level below in the report’s language. Cite concrete benefits and costs; do not manufacture a positive reason or a defect for balance. Where no defensible reason exists on one side, say so. Judge the work for mathematicians concerned with the relevant questions, not the AI’s processing ability or an invented individual preference. State the readership and reading context; present-day advice on a historical work must not rewrite its contribution at the time.
 
 For each proposed reading benefit, cite the supporting passage or material, state what readers can gain, and explain why it is useful to the stated readership. A citation alone does not establish that benefit. Neither “experts may see value that the AI cannot identify” nor a generic possibility of learning something supports a recommendation. Read with Caution also requires this evidence: uncertainty about the payoff does not excuse an unidentified benefit. If the AI cannot understand the material well enough to establish a proposed benefit, diagnose the evidence gap rather than inventing a benefit or inferring that none exists. Separately established defects and surviving benefits remain assessable under the output rules.
 
@@ -178,31 +198,41 @@ For Strongly Recommended or Worth a Look, briefly identify the gains, suitable e
 
 ## Report
 
-Use the user's requested output format and template; default to Markdown when neither is specified. PDF, Word, LaTeX, HTML, or structured output can be requested as appropriate to the task. Adapt the presentation to that format while preserving the assessment's evidence, grade names, limitations, and reading recommendation. Represent scope, status, and source attribution as fields or sections appropriate to the chosen format. The structure below is the default when no report template is supplied.
+Match the requested scope. A complete reading-selection report normally includes contribution analysis, an eligible diagram, and reading advice. A focused question, comparison, or revision can be answered directly with the relevant evidence, attribution, limits, and consequences. Do not force a complete report, unrelated grades, a diagram, or reading advice into a local follow-up. A contribution-only report may omit reading advice. If a requested output lacks support, use the evidence-gap rules and retain established findings.
 
-Use the relevant document tools for the requested format. Include an eligible diagram in a supported form, retaining the original SVG as a separate deliverable when conversion is needed. Check that the delivered file opens correctly and that its diagram and labels remain legible. If the requested format cannot be produced in the available environment, explain the limitation and offer an available alternative; do not label a different file type as the requested format.
+Use the user's requested output format and template; default to Markdown when neither is specified. PDF, Word, LaTeX, HTML, or structured output can be requested as appropriate. Preserve evidence, exact grade names, attribution, and limitations in the chosen format. For an artifact, use relevant document tools, check that it opens correctly, and that any diagram and labels are legible. Retain the SVG as a separate deliverable when conversion is needed. Explain an unavailable format and offer an available alternative rather than mislabeling a file.
 
-Use a report title identifying the work and MathMerit. Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
+For a complete report, use a title identifying the work and MathMerit, then a short statement of the actual material, purpose, and participation. Examples, to adapt rather than impose as labels:
 
-> **This report consists solely of AI inferences · For reading selection only · Not an assessment of mathematical quality**
+> **AI reading advice based on the full text and listed prior works; no human checking is recorded.**
 
-> **本报告纯属 AI 推测 · 仅供阅读筛选 · 不构成质量评定**
+> **依据全文及所列前作形成的 AI 阅读建议；尚无人工核查记录。**
 
-Unless community evaluation of this assessment is documented, include **Assessment status: Not evaluated by the mathematical community** (Chinese: **评价状态：未经过共同体评价**). One person’s opinion is not community evaluation; evaluation of the work is not evaluation of this report. Preserve the scope of any documented input. Keep status and attribution outside the diagram.
+> **This revision includes human checking of comparison C2; the other comparisons remain AI analysis.**
 
-Establish evidence before assigning grades or a recommendation; neither conclusion may manufacture support for the other. Unless the user supplies a different template, present the report in this order:
+> **本次修订纳入了对比较 C2 的人工核查；其他比较仍为 AI 分析。**
 
-1. **Scope and sources.** Identify the work or bounded series and versions, intended readership, reading purpose and context, and report date. Identify the built-in criteria revision given above; no upstream lookup is needed. Identify contribution analysis as **Contribution at the time**, with its historical context and compact comparison record; keep separately requested later influence outside these grades.
-2. **Contribution analysis.** In diagram order—Significance, Knowledge, Understanding, Methods, Exposition—give each supported grade, concrete grounds for its level, evidence locators, and material limits. Identify ungraded dimensions under the output rules. Distinguish observations, AI inferences, and attributed human judgments; apply reliability warnings where needed. Shared checking notes need not be repeated.
-3. **Diagram, when eligible.** Derive labels and positions from the final grade record using the grid rules below. Include the ordered grade names to make positions interpretable.
-4. **Reading reasons and recommendation.** Weigh concrete benefits and costs under [Reading recommendation](#reading-recommendation), then state the supported recommendation or explain why it is undetermined. Follow with reading entry points only when warranted by that recommendation.
+Name checks and limitations where they matter. Do not describe every report as purely AI, restrict every assessment to reading selection, or infer collective review from an individual's input. Do not require a community-status certification field. Keep provenance and checking status outside the diagram, beside the affected judgments or in a clearly scoped shared note.
 
-Close every report or evidence-gap notice with **Skill: [MathMerit](https://github.com/GauSyu/MathMerit)**, translated into the report's language. This attributes the assessment method. Do not add fields naming the report-generating model or its version, or placeholders stating that its identity is unconfirmed.
+Establish evidence before assigning grades or a recommendation; neither conclusion may manufacture support for the other. Unless another template or narrower request applies, use this order:
+
+1. **Scope and sources.** Identify the work or bounded series, versions, purpose, intended readership, and report date. State the built-in revision given above; no upstream lookup is needed. Identify contribution analysis as **Contribution at the time**, with its historical context and compact comparison record; keep separately requested later influence outside these grades.
+2. **Contribution analysis.** In diagram order—Significance, Knowledge, Understanding, Methods, Exposition—give supported grades, concrete grounds, evidence locators, and material limits. Identify ungraded dimensions under the output rules. Distinguish source observations, AI inferences, attributed human judgments, and actual checking. Apply reliability warnings where needed, and preserve reasoned disagreements.
+3. **Diagram, when eligible and useful.** Derive labels and positions from the stated grade record using the grid rules below. Include the ordered grade names to make positions interpretable.
+4. **Reading reasons and recommendation, when relevant.** Weigh concrete benefits and costs under [Reading recommendation](#reading-recommendation), then state the supported recommendation or explain why it is undetermined. Follow with reading entry points only when warranted.
+5. **Revision, when applicable.** Briefly state which judgments changed, the new grounds, and any unresolved disagreement; this may instead accompany the affected entries.
+
+Close a standalone report or evidence-gap notice with **Skill: [MathMerit](https://github.com/GauSyu/MathMerit)**, translated into the report's language. A focused continuation of an already attributed assessment need not repeat this footer. Do not add fields naming the report-generating model or its version, or placeholders stating that its identity is unconfirmed.
 
 ## Five-axis grid
 
-When all five grades are supported, use [MathProfile](../skills/mathprofile/SKILL.md) to draw them with its bundled `scripts/render_profile.py`. Pass the work or bounded series title, report language, exact finalized grade names, and `context: "ai-reading-selection"`. This preserves MathMerit's diagram identity as **AI reading-selection profile / AI 阅读筛选推测图**. The drawing skill also works independently for human-supplied grades, using a neutral title by default.
+When a diagram is useful and all five grades in the profile are supported, use [MathProfile](../skills/mathprofile/SKILL.md) and its bundled `scripts/render_profile.py`. Pass the work or bounded series title, report language, and exact finalized grade names. Choose an existing context to fit the assessment:
 
-MathMerit owns the judgments and their evidence; MathProfile owns the diagram layout and grade-to-position mapping. Its ordered grade names must match the contribution tables above. A missing grade blocks this diagram; do not send a lowest-grade substitute or let the drawing step reassess the work.
+- `context: "ai-reading-selection"` for a reading-selection profile whose five grades remain AI inferences without substantive human participation in their assessment. Its title is **AI reading-selection profile / AI 阅读筛选推测图**.
+- `context: "contribution"` for a collaborative assessment, human-supplied assessment, or an assessment whose purpose extends beyond reading selection. Its neutral title is **Mathematical contribution profile / 数学贡献五维图**. The neutral title does not imply verification or human endorsement; describe actual attribution in the accompanying text, including any AI-only judgments.
 
-Before submission, compare the five grades and their grounds in the finalized report with the renderer input and output labels. Correct an inconsistent judgment or input from the evidence; do not strengthen the prose to fit the drawing. Follow MathProfile's coordinate, ordinal-scale, and visual checks. Keep assessment status, human/AI attribution, and checking conditions in the report, outside the image. Save and link the SVG, and display it or a rendered preview when supported.
+A general expression of agreement does not change the attribution or context. MathMerit owns the judgments and evidence; MathProfile owns layout and grade-to-position mapping. Its ordered grade names must match the tables above. A missing grade blocks that profile: do not fill it with a lowest grade or let the drawing step reassess the work.
+
+For a material disagreement, do not average or silently choose a grade to complete a single diagram. Retain a textual account; if alternative diagrams help the requested comparison, each must have a complete supported grade set, a clearly attributed viewpoint or conditional basis, and accompanying reasons. Drawing several viewpoints does not establish consensus.
+
+Before submission, compare all five grades and grounds in the finalized account with renderer input and output labels. Correct inconsistent judgments or inputs from the evidence; do not strengthen prose to fit the drawing. Follow MathProfile's ordinal-scale and visual checks. Positions show order only: distances and area do not measure contribution and the grades do not form a total score. Keep participation, status, and checking conditions outside the image. Save and link the SVG, and display it or a rendered preview when supported.
