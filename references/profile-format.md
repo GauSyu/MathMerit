@@ -176,6 +176,10 @@ For Strongly Recommended or Worth a Look, briefly identify the gains, suitable e
 
 ## Report
 
+Use the user's requested output format and template; default to Markdown when neither is specified. PDF, Word, LaTeX, HTML, or structured output can be requested as appropriate to the task. Adapt the presentation to that format while preserving the assessment's evidence, grade names, limitations, and reading recommendation. Represent scope, status, and source attribution as fields or sections appropriate to the chosen format. The structure below is the default when no report template is supplied.
+
+Use the relevant document tools for the requested format. Include an eligible diagram in a supported form, retaining the original SVG as a separate deliverable when conversion is needed. Check that the delivered file opens correctly and that its diagram and labels remain legible. If the requested format cannot be produced in the available environment, explain the limitation and offer an available alternative; do not label a different file type as the requested format.
+
 Use a report title identifying the work and MathMerit. Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
 
 > **This report consists solely of AI inferences · For reading selection only · Not an assessment of mathematical quality**
@@ -184,14 +188,14 @@ Use a report title identifying the work and MathMerit. Open with this short scop
 
 Unless community evaluation of this assessment is documented, include **Assessment status: Not evaluated by the mathematical community** (Chinese: **评价状态：未经过共同体评价**). One person’s opinion is not community evaluation; evaluation of the work is not evaluation of this report. Preserve the scope of any documented input. Keep status and attribution outside the diagram.
 
-Establish evidence before assigning grades or a recommendation; neither conclusion may manufacture support for the other. Present the report in this order:
+Establish evidence before assigning grades or a recommendation; neither conclusion may manufacture support for the other. Unless the user supplies a different template, present the report in this order:
 
 1. **Scope and sources.** Identify the work or bounded series and versions, intended readership, reading purpose and context, and report date. Identify the built-in criteria revision given above; no upstream lookup is needed. Identify contribution analysis as **Contribution at the time**, with its historical context and compact comparison record; keep separately requested later influence outside these grades.
 2. **Contribution analysis.** In diagram order—Significance, Knowledge, Understanding, Methods, Exposition—give each supported grade, concrete grounds for its level, evidence locators, and material limits. Identify ungraded dimensions under the output rules. Distinguish observations, AI inferences, and attributed human judgments; apply reliability warnings where needed. Shared checking notes need not be repeated.
 3. **Diagram, when eligible.** Derive labels and positions from the final grade record using the grid rules below. Include the ordered grade names to make positions interpretable.
 4. **Reading reasons and recommendation.** Weigh concrete benefits and costs under [Reading recommendation](#reading-recommendation), then state the supported recommendation or explain why it is undetermined. Follow with reading entry points only when warranted by that recommendation.
 
-Close every report or evidence-gap notice with **Model: <actual model identifier> · Skill: [MathMerit](https://github.com/GauSyu/MathMerit)**, translated into the report’s language. Use the model identity exposed by the runtime or explicitly supplied for this run; do not infer it from the app name, skill metadata, or an earlier report. If the version cannot be confirmed, say so. Identify distinct contributing models if applicable. The signature names the report generator, not the work’s author or a human evaluator.
+Close every report or evidence-gap notice with **Skill: [MathMerit](https://github.com/GauSyu/MathMerit)**, translated into the report's language. This attributes the assessment method. Do not add fields naming the report-generating model or its version, or placeholders stating that its identity is unconfirmed.
 
 ## Five-axis grid
 
