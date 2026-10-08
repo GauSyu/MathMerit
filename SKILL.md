@@ -1,11 +1,13 @@
 ---
 name: mathmerit
-description: "Assess mathematical works or interdependent series for their contribution at the time using Copernicus, with an evidence-based five-axis diagram and reading advice."
+description: "Help mathematicians select mathematical works or interdependent series worth reading, using Copernicus to produce a provisional five-axis report and a reasoned reading recommendation."
 ---
 
 # MathMerit
 
-Read [Copernicus](Copernicus.en.md) for the complete method: principles, dimensions, ordered grades, and five-axis diagram. The [Chinese edition](Copernicus.zh.md) provides the corresponding Chinese terminology; use the edition needed for the output language, or both for bilingual output. This skill implements that method. Use [profile-format.md](references/profile-format.md) for execution and reporting, and [profile-grid.svg](assets/profile-grid.svg) for drawing. Obtain missing criteria before grading; do not substitute remembered or superseded scales.
+Help human mathematicians decide whether a work merits their reading time. Copernicus is a proposal for human evaluation; this skill uses it for AI-assisted reading selection.
+
+Read [Copernicus](Copernicus.en.md) for the complete method: principles, dimensions, ordered grades, and five-axis diagram. The [Chinese edition](Copernicus.zh.md) provides the corresponding Chinese terminology; use the edition needed for the output language, or both for bilingual output. Use [profile-format.md](references/profile-format.md) for execution and reporting, and [profile-grid.svg](assets/profile-grid.svg) for drawing. Obtain missing criteria before grading; do not substitute remembered or superseded scales.
 
 Use the language requested by the user; otherwise follow the request’s language, defaulting to English when unspecified. Produce bilingual output only when requested. Apply this choice to the report, status, and all diagram text.
 
@@ -25,6 +27,8 @@ Assess **Contribution at the time**, whether the work is recent or historical. R
 
 **Grade the gain; explain the grounds.** For every move to a higher named grade, identify the dimension-specific gain, its evidence, and why the lower grade understates it under Copernicus. Strong adjectives or success in another dimension do not supply that basis. Low grades across all five dimensions are a normal, complete outcome; do not raise any grade to balance the profile, justify a recommendation, or reward effort. Give reasoned provisional judgments without requiring complete correctness certification. Name key dependencies for conditional judgments; an identified error or missing argument restricts dependent claims, while surviving gains remain assessable. If grounds are insufficient for any dimension, withhold the entire assessment: report only the missing grounds, with no grades, evaluative reading advice, or diagram. Provisional or conditional wording cannot substitute for missing grounds. Incomplete correctness checking alone does not trigger this stop. A finding of no improvement concerns only the specified dimension. Assess independent corroboration under Knowledge when it strengthens grounds; retain material gains and costs not captured by the grades.
 
+**Expose the limits of AI judgment.** Present AI-assigned grades as provisional inferences. Apply the reference’s reliability labels to judgments AI cannot reliably settle; confidence of tone is not evidence. Labels do not excuse missing grounds or lower the contribution grade.
+
 **Give reasons for significance.** Assess Significance separately from the four contribution grades. Use a clear attributed human judgment when supplied; preserve its scope and reasons. Otherwise supply an AI provisional judgment under the same criteria. Do not convert that judgment into community endorsement.
 
 **Label the whole assessment.** Without documented community evaluation of the assessment, begin the report with **Assessment status: Not evaluated by the mathematical community**, using the report’s language (see the format reference for Chinese wording). Keep status, attribution, and checking notes outside the image. One person's opinion is not community evaluation.
@@ -33,6 +37,6 @@ Assess **Contribution at the time**, whether the work is recent or historical. R
 
 **Show the profile; preserve the reasons.** Once all five dimensions have supported grades, deliver a concise report and five-axis SVG in the selected language or languages. From the top clockwise: **Significance, Knowledge, Understanding, Methods, Exposition**. Take grade names from the corresponding language edition of Copernicus; English labels stand on their own rather than translating the Chinese labels afresh. Derive the report’s grade labels, diagram labels, and marker positions from one final grade record. Do not reassess or raise grades while drawing. Check agreement with the supporting reasoning before delivery. Never add grades, measure area, or infer an overall ranking.
 
-**Judge reading priority.** State whether and why the work merits the mathematical community's attention. Limited contribution and no recommendation for priority reading are valid conclusions. Identify worthwhile passages where supported; do not manufacture a recommendation. Personal-interest matching does not replace this judgment. Keep future expectations distinct from realized contributions; leave long-term influence to history.
+**Recommend for human readers.** Give reasons for and against reading, then select exactly one of the four recommendation levels in the reference. Weigh concrete mathematical benefits against prerequisites, exposition, and the effort required to locate and check the contribution. Neither diagram size nor an unreliable high grade decides the recommendation. Provide reading entry points only where warranted by that recommendation. Sign the report with the actual model identity and cite the MathMerit repository. Keep future expectations distinct from realized contributions; leave long-term influence to history.
 
 Save in the task's authorized location, link the report, display the grid, and preserve source originals.
