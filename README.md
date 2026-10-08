@@ -14,7 +14,7 @@ MathMerit is an AI skill that helps mathematicians select works worth reading. I
 
 ## Report contents
 
-The report gives a recommendation with reasons for and against reading, supported by provisional five-dimensional grades, specific evidence, and an AI reading-selection diagram. It identifies the limits of the inferences, the model used, and this repository. Its grades must not be used as judgments of mathematical quality. See the [report rules](references/profile-format.md).
+The report first presents provisional five-dimensional grades, specific evidence, and an AI reading-selection diagram, then weighs reading benefits and effort, gives reasons for and against reading, and concludes with a recommendation. It identifies the limits of the inferences, the model used, and this repository. Its grades must not be used as judgments of mathematical quality. See the [report rules](references/profile-format.md).
 
 ## Use
 
