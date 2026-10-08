@@ -98,8 +98,6 @@ Readability does not mean effortless reading. Omission can bring ideas into focu
 
 Explanations supplied by the evaluator are not credited to the text. Explicitly available references and supporting materials can contribute to exposition; neither self-containment nor an elementary presentation is required. Duplicating an equally clear account adds no expository contribution. New mathematical understanding and improvements in conveying it are assessed separately.
 
-AI can make reasoned judgments on these four items from the text and historical evidence.
-
 ## Mathematical significance
 
 **Why do these improvements merit the community's attention?**
@@ -115,8 +113,6 @@ Significance rests on the mathematical questions, judgments, connections, and re
 
 Significance rests on the specific change made by this work; the other four grades do not calculate it. A problem’s importance and anticipated impact cannot simply be transferred to the work solving it. Distinguish inherited connections, newly established consequences, and future expectations. Knowledge, Understanding, Methods, and Exposition can each support a major contribution; the value of solving a problem does not automatically establish conceptual or methodological originality. Insufficient evidence does not justify the lowest significance grade.
 
-AI can propose reasoned judgments of significance for mathematicians to assess; mathematicians decide whether the work merits time spent on research, study, or use.
-
 ## Long-term influence
 
 Subsequent research reveals actual use, revision, development, and changes in knowledge. Citations, popularity, or non-use alone cannot establish influence. Unrealized effects remain expectations. Long-term influence can only be tested by history and does not enter the five grades for contribution at the time.
@@ -126,5 +122,3 @@ Subsequent research reveals actual use, revision, development, and changes in kn
 We propose a five-axis diagram to make distinct contributions, differences, and limitations visible together. Its axes summarize Knowledge, Understanding, Methods, Exposition, and Significance. The lowest grade lies at the origin; the other three grades lie on successive outer rings. Fill the contour where it encloses area; retain a point or line when it degenerates. Grades are neither equally spaced measures nor additive, and area does not represent overall value. An assessment requires adequate grounds; when these cannot support a complete judgment, withhold the assessment.
 
 Written reasons support grades, and the diagram must match them exactly. Disagreements concern comparison material, arguments, and criteria. New evidence can change judgments.
-
-Contribution assessment supplies reasons for reading choices; grades do not translate directly into reading priority. When reading is not recommended, a brief reason suffices. When recommending reading, consider human readers’ background and purpose, identify the results, understanding, methods, or exposition worth acquiring, and suggest a suitable entry point.
