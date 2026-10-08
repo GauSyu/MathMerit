@@ -159,6 +159,8 @@ For a supported recommendation, state **Reasons to read / 推荐理由** and **R
 
 For each proposed reading benefit, cite the supporting passage or material, state what readers can gain, and explain why it is useful to the stated readership. A citation alone does not establish that benefit. Neither “experts may see value that the AI cannot identify” nor a generic possibility of learning something supports a recommendation. Read with Caution also requires this evidence: uncertainty about the payoff does not excuse an unidentified benefit. If the AI cannot understand the material well enough to establish a proposed benefit, diagnose the evidence gap rather than inventing a benefit or inferring that none exists. Separately established defects and surviving benefits remain assessable under the output rules.
 
+For the stated readers and reading purpose, identify the reading scope and necessary dependencies needed to obtain each proposed benefit. Explain why that benefit justifies the corresponding effort, or which cost or defect makes the payoff uncertain. Merely listing benefits, defects, and entry points does not establish this balance.
+
 | 中文等级 | 中文判据 | English level | English criterion |
 |---|---|---|---|
 | **强烈推荐** | 对关心相关问题的数学家，阅读本工作的明确收益普遍值得相应投入。 | **Strongly Recommended** | For mathematicians concerned with the relevant questions, the identifiable benefits broadly justify the reading investment. |
