@@ -14,10 +14,10 @@ MathMerit is an AI skill that helps mathematicians select works worth reading. I
 
 ## Report contents
 
-The report first presents provisional five-dimensional grades, specific evidence, and an AI reading-selection diagram, then weighs reading benefits and effort, gives reasons for and against reading, and concludes with a recommendation. It identifies the limits of the inferences, the model used, and this repository. Its grades must not be used as judgments of mathematical quality. See the [report rules](references/profile-format.md).
+The report first analyzes mathematical contributions and explains supported grades and their limits, with a five-axis diagram when all five grades are supported. It then weighs concrete reading benefits and effort, gives reasons for and against reading, and offers a supported recommendation. Undetermined grades do not block independently supported reading advice. Reports identify the model and this repository; grades are not quality assessments. See the [report rules](references/profile-format.md).
 
 ## Use
 
-Install this directory as `mathmerit` using your assistant's local skill installation mechanism. Assessments require network access to retrieve the current Copernicus criteria; English use needs only the English edition, with no separate checkout. Reports follow the requested language, or the request's language; bilingual output is available on request.
+Install this directory as `mathmerit` using your assistant's local skill installation mechanism. Contribution grading requires network access to Copernicus’s criteria. Reports follow the requested language, or the request's language; bilingual output is available on request.
 
 Example: “Use $mathmerit to help me decide whether this paper is worth reading; write the report in English.”
