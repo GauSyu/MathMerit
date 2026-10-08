@@ -5,7 +5,7 @@ description: "Help mathematicians select mathematical works or interdependent se
 
 # MathMerit
 
-Help human mathematicians decide whether a work merits their reading time. Copernicus is a proposal for human evaluation; this skill uses it only for AI-assisted reading selection. State that purpose at the start of every report: the five-dimensional grades are supporting AI inferences and must not be used as assessments of mathematical quality.
+Help human mathematicians decide whether a work merits their reading time. Copernicus is a proposal for human evaluation; this skill uses it only for AI-assisted reading selection. Open each report with the short scope line specified in the format reference. Copernicus governs the grade criteria; reading selection governs their presentation and the recommendation, not different promotion thresholds.
 
 Read the bundled [English criterion snapshot](references/copernicus/Copernicus.en.md) or its [Chinese edition](references/copernicus/Copernicus.zh.md), as needed for the report's language. [Copernicus](https://github.com/GauSyu/Copernicus) is the independently maintained proposal; [source.json](references/copernicus/source.json) identifies the imported commit and file hashes. Use this pinned copy consistently for a report, rather than silently substituting the latest upstream text. Its dimensions and grade criteria inform the AI inferences; MathMerit owns the reading-selection rules and its distinct diagram. Use [profile-format.md](references/profile-format.md) for execution and reporting, and MathMerit's [profile-grid.svg](assets/profile-grid.svg) for drawing. Obtain missing criteria before grading; do not substitute remembered or superseded scales.
 

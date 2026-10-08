@@ -66,11 +66,11 @@ A warning does not permit an invented grade: absent grounds for any dimension, w
 
 Submit only when all five dimensions have supported grades. Otherwise return only a brief “Assessment withheld: insufficient grounds” notice (Chinese: “不予评价：依据不足”) in the selected language, identifying the missing grounds and what would resolve them. Do not deliver grades, partial assessments, evaluative reading advice, or a diagram. Labeling a judgment provisional or conditional does not waive this requirement.
 
-Title the document **<Work> — Reading-selection report** (Chinese: **《工作名称》阅读筛选报告**). Open with the following notice in the report’s language:
+Title the document **<Work> — Reading-selection report** (Chinese: **《工作名称》阅读筛选报告**). Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
 
-> **Purpose: This report serves only to help mathematicians select works worth reading. Its five-dimensional grades are AI inferences for that purpose and must not be used as judgments of the work’s mathematical quality.**
+> **This report consists solely of AI inferences · For reading selection only**
 
-> **用途：本报告仅帮助数学家筛选值得一看的工作；五维等级是服务于阅读取舍的 AI 推测，不应作为对数学工作质量的评定。**
+> **本报告纯属 AI 推测 · 仅供阅读筛选**
 
 Then include the assessment-status label required by SKILL.md. For Chinese output, use **评价状态：未经过共同体评价**; bilingual output includes both languages. Documented community input does not change the report’s limited purpose.
 
