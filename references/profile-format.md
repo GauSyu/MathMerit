@@ -68,9 +68,9 @@ Submit only when all five dimensions have supported grades. Otherwise return onl
 
 Title the document **<Work> — Reading-selection report** (Chinese: **《工作名称》阅读筛选报告**). Open with this short scope line in the report’s language; do not expand it into a disclaimer paragraph:
 
-> **This report consists solely of AI inferences · For reading selection only**
+> **This report consists solely of AI inferences · For reading selection only · Not an assessment of mathematical quality**
 
-> **本报告纯属 AI 推测 · 仅供阅读筛选**
+> **本报告纯属 AI 推测 · 仅供阅读筛选 · 不构成质量评定**
 
 Then include the assessment-status label required by SKILL.md. For Chinese output, use **评价状态：未经过共同体评价**; bilingual output includes both languages. Documented community input does not change the report’s limited purpose.
 
