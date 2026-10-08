@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="chart-title chart-description">
-<title id="chart-title">MathMerit contribution profile</title>
-<desc id="chart-description">Five dimensions with their own named ordinal grades, from top clockwise: Significance, Knowledge, Understanding, Methods, Exposition. Lowest grades share the origin; three rings represent the higher grades. Unfilled template; deliver only with five supported grades. A complete profile may degenerate to a point or lines.</desc>
+<title id="chart-title">MathMerit AI reading-selection profile</title>
+<desc id="chart-description">AI estimates for reading selection, not mathematical quality judgments. Five dimensions with their own named ordinal grades, from top clockwise: Significance, Knowledge, Understanding, Methods, Exposition. Lowest grades share the origin; three rings represent the higher grades. Unfilled template; deliver only with five supported grades. A complete profile may degenerate to a point or lines.</desc>
 <style>
 text { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans CJK SC', sans-serif; fill: #243748; text-anchor: middle; }
 .axis-name { font-size: 24px; font-weight: 600; }
 .grade-name { font-size: 18px; fill: #176373; }
 </style>
 <rect width="1400" height="980" fill="#ffffff"/>
-<text id="profile-title" x="700" y="42" font-size="26" font-weight="600">Mathematical contribution profile</text>
+<text id="profile-title" x="700" y="42" font-size="26" font-weight="600">MathMerit — AI reading-selection profile</text>
 <g id="grid" fill="none" stroke="#cbd5e1" stroke-width="1.2">
 <polygon data-radius="86.666666667" points="700.000,363.333 782.425,423.219 750.941,520.115 649.059,520.115 617.575,423.219"/>
 <polygon data-radius="173.333333333" points="700.000,276.667 864.850,396.437 801.883,590.230 598.117,590.230 535.150,396.437"/>
@@ -69,5 +69,5 @@ text { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans
 </g>
 </g>
 <text x="700" y="902" font-size="17">Lowest grade at the origin; three higher grades on successive rings.</text>
-<text x="700" y="935" font-size="17">Grades are specific to each dimension; shaded area does not measure overall value.</text>
+<text x="700" y="935" font-size="17">AI estimates for reading selection; shaded area is not a quality score.</text>
 </svg>

@@ -1,6 +1,6 @@
 # Reading-selection report and supporting contribution grid
 
-Read the edition of Copernicus needed for the output language through the links in SKILL.md; English assessment requires only the English edition. Its grade definitions and names govern all five dimensions; this reference does not maintain a second scale.
+Read the bundled Copernicus edition linked in SKILL.md for the output language; English use needs only the English copy. Its pinned grade definitions govern the five provisional inferences. MathMerit owns this reading-selection report and diagram; the diagram is not interchangeable with a contribution assessment made under the independent Copernicus proposal. The imported files and their source commit are recorded in `references/copernicus/source.json` at the skill root.
 
 ## Unit of assessment
 
@@ -27,7 +27,7 @@ An open comparison may still permit a supported provisional or conditional grade
 
 ## Grades and judgment provenance
 
-Use the ordered grades and full conditions in the current Copernicus, in the report's language. Determine the prior state and actual gain before assigning a grade. For each proposed grade above the lowest, give the concrete gain, supporting passages and comparison, and explain why the next lower grade understates that gain and how the proposed grade's defining conditions are met. This does not require cumulative satisfaction of differently worded lower-grade criteria. Calling a change key, substantial, or foundational does not establish the distinction; show what changed. Keep the comparison scope fixed rather than shrinking it to make the result appear fundamental. Do not treat the five dimensions as a common scale.
+Use the ordered grades and full conditions in the pinned Copernicus edition, in the report's language. Determine the prior state and actual gain before assigning a grade. For each proposed grade above the lowest, give the concrete gain, supporting passages and comparison, and explain why the next lower grade understates that gain and how the proposed grade's defining conditions are met. This does not require cumulative satisfaction of differently worded lower-grade criteria. Calling a change key, substantial, or foundational does not establish the distinction; show what changed. Keep the comparison scope fixed rather than shrinking it to make the result appear fundamental. Do not treat the five dimensions as a common scale.
 
 All five grades may be low, including all five lowest grades when supported by comparison. This is a normal completed assessment: submit the reasons and the corresponding diagram without compensating upgrades, enlarged radii, or manufactured praise. The complete-assessment rule requires evidence for every dimension, not a positive contribution in every dimension. Insufficient grounds require withholding the assessment, not assigning the lowest grade. Low grades are not a quota or a presumption against the work.
 
@@ -74,7 +74,7 @@ Title the document **<Work> — Reading-selection report** (Chinese: **《工作
 
 Then include the assessment-status label required by SKILL.md. For Chinese output, use **评价状态：未经过共同体评价**; bilingual output includes both languages. Documented community input does not change the report’s limited purpose.
 
-Complete the evidence comparison and grade justifications before choosing the recommendation; the order of presentation must not predetermine the grades. Lead with the reading recommendation and the concrete reasons for and against reading, following the rules below. The five-dimensional analysis and diagram support that decision; they are not the report’s overall verdict. Identify the work or bounded series and versions, intended readership, reading purpose and context, Copernicus document date, and report date. Identify the five-dimensional analysis as **Contribution at the time** and record its historical context and baseline evidence separately. State documented evaluation sources and scope where available.
+Complete the evidence comparison and grade justifications before choosing the recommendation; the order of presentation must not predetermine the grades. Lead with the reading recommendation and the concrete reasons for and against reading, following the rules below. The five-dimensional analysis and diagram support that decision; they are not the report’s overall verdict. Identify the work or bounded series and versions, intended readership, reading purpose and context, Copernicus document date and source commit from `source.json`, and report date. Identify the five-dimensional analysis as **Contribution at the time** and record its historical context and baseline evidence separately. State documented evaluation sources and scope where available.
 
 After the reading recommendation and reasons, present the report’s five grades and chart as supporting provisional AI estimates, preserving any explicitly attributed human input. Give five brief entries in diagram order: Significance, Knowledge, Understanding, Methods, Exposition. Each needs its named grade, concrete reasons for its level, evidence locators, applicable reliability labels, and material limits; shared checking notes need not be repeated. Finalize these five grades as the single record from which all displayed grades and ring positions are derived. A high grade must be supported by the reasoning for that dimension, not praise attached to another one. Include the ordered grade names so the diagram's positions are interpretable. Retain material gains or losses that the grades omit.
 
@@ -99,7 +99,7 @@ Close every report or insufficient-grounds notice with **Model: <actual model id
 
 ## Five-axis grid
 
-Copy `assets/profile-grid.svg` from the skill directory to the output location. The template is English. Set the visible title and accessible title/description to identify the assessed work or bounded series. For Chinese output, replace the axis names, grades, title, and legend with Chinese; for requested bilingual output, add paired text lines and adjust spacing. The template has five spokes and three nested pentagonal rings and a shared origin; replace all grade placeholders before delivery.
+Copy MathMerit’s own `assets/profile-grid.svg` to the output location; do not substitute the Copernicus contribution-diagram template. The template is English. Keep its identity as **AI reading-selection profile** (Chinese: **AI 阅读筛选推测图**) in the visible and accessible titles, adding the work or bounded series. Its estimates support the reading recommendation; they do not express a human or community contribution assessment. For Chinese output, replace the axis names, grades, title, and legend with Chinese; for requested bilingual output, add paired text lines and adjust spacing. The template has five spokes and three nested pentagonal rings and a shared origin; replace all grade placeholders before delivery.
 
 The center is `(700, 450)`. From top clockwise:
 
