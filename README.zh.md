@@ -10,7 +10,7 @@
 
 ## 用途
 
-MathMerit 是帮助数学家筛选值得阅读工作的 AI 技能。它采用 [Copernicus](https://github.com/GauSyu/Copernicus) 的五个维度与等级判据分析数学贡献，并结合阅读受益与投入给出建议。报告中的评级与图表属于 AI 推测，仅供阅读筛选参考，不构成质量评定。
+MathMerit 是帮助数学家筛选值得阅读工作的 AI 技能。它采用 [Copernicus](https://github.com/GauSyu/Copernicus) 的五个维度与等级判据分析数学贡献，并结合阅读受益与投入给出建议。报告中的评级与图表属于 AI 推测，仅供阅读筛选参考，不能代替专家判断。若你已对某项工作感兴趣，不应仅凭本报告放弃阅读。
 
 ## 报告内容
 

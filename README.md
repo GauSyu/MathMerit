@@ -10,7 +10,7 @@ As AI4Math develops rapidly and papers multiply, which deserve a mathematician's
 
 ## Purpose
 
-MathMerit is an AI skill that helps mathematicians select works worth reading. It uses the five dimensions and grade criteria of [Copernicus](https://github.com/GauSyu/Copernicus) to analyze mathematical contributions, and weighs reading benefits against the required effort to make recommendations. The report's grades and diagram are AI inferences for reading selection only, not assessments of mathematical quality.
+MathMerit is an AI skill that helps mathematicians select works worth reading. It uses the five dimensions and grade criteria of [Copernicus](https://github.com/GauSyu/Copernicus) to analyze mathematical contributions, and weighs reading benefits against the required effort to make recommendations. The report's grades and diagram are AI inferences for reading selection only and cannot replace expert judgment. If a work already interests you, do not let this report alone dissuade you from reading it.
 
 ## Report contents
 
