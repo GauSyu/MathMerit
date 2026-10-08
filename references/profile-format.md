@@ -195,24 +195,8 @@ Close every report or evidence-gap notice with **Model: <actual model identifier
 
 ## Five-axis grid
 
-When the output rules permit a diagram, copy `assets/profile-grid.svg` to the output location. The template is English. Keep its identity as **AI reading-selection profile** (Chinese: **AI 阅读筛选推测图**) in the visible and accessible titles, adding the work or bounded series. For Chinese output, replace the axis names, grades, title, and legend with Chinese; for requested bilingual output, add paired text lines and adjust spacing. The template has five spokes and three nested pentagonal rings and a shared origin; replace all grade placeholders before delivery.
+When all five grades are supported, use [MathProfile](../skills/mathprofile/SKILL.md) to draw them with its bundled `scripts/render_profile.py`. Pass the work or bounded series title, report language, exact finalized grade names, and `context: "ai-reading-selection"`. This preserves MathMerit's diagram identity as **AI reading-selection profile / AI 阅读筛选推测图**. The drawing skill also works independently for human-supplied grades, using a neutral title by default.
 
-The center is `(700, 450)`. From top clockwise:
+MathMerit owns the judgments and their evidence; MathProfile owns the diagram layout and grade-to-position mapping. Its ordered grade names must match the contribution tables above. A missing grade blocks this diagram; do not send a lowest-grade substitute or let the drawing step reassess the work.
 
-| Axis ID | Dimension | Direction `(x, y)` |
-|---|---|---|
-| `significance` | Significance | `(0, -1)` |
-| `knowledge` | Knowledge | `(0.951056516, -0.309016994)` |
-| `understanding` | Understanding | `(0.587785252, 0.809016994)` |
-| `methods` | Methods | `(-0.587785252, 0.809016994)` |
-| `exposition` | Exposition | `(-0.951056516, -0.309016994)` |
-
-Map each dimension's four ordered grades to radii `0`, `260/3`, `520/3`, and `260` SVG units, respectively. The lowest grade is exactly at the shared origin `(700, 450)`; the other three grades use the three rings. These equally spaced drawing positions do not imply equal differences in contribution and are not scores. During skill maintenance, keep the template and this mapping consistent with the built-in dimensions and ordered grades.
-
-Read each assigned grade from the finalized report record; map its position in that dimension’s ordered scale to the corresponding origin or ring without re-grading. For an assigned grade, set `AXIS-marker` to `center + radius × direction`, make it visible, and replace `AXIS-grade` with the exact name from the corresponding built-in grade table (both names for bilingual output). Show all five markers; lowest-grade markers coincide at the origin. Keep every axis’s grade label visible.
-
-Give `profile-contour` all five marker coordinates in clockwise order and make it visible, with a clear outline and translucent fill wherever it encloses area. Retain repeated origin coordinates. A supported profile may degenerate to a point or lines: all five lowest grades show a single point at the origin. Do not offset markers, impose a positive minimum radius, or invent area to make the profile look filled. Such a profile is complete; an unassessed dimension is not.
-
-Keep the title, dimension names, chosen grades, grid, markers, fill, and ordinal-scale legend legible. Wrap long labels or enlarge the canvas. Do not add numeric ticks, total scores, or area measurements. Assessment status, human/AI attribution, and checking conditions belong in the report, never in the image.
-
-Before submission, compare each axis’s supporting reasoning, final report grade, diagram label in each requested language, and actual marker coordinates against the corresponding origin or grade ring. All four must agree. If a diagram shows the highest ring while the reasoning does not support that grade, correct the judgment or drawing from the evidence; never strengthen the prose merely to match the image. Withhold inconsistent output until corrected. Check that the closed contour follows the five verified markers. Render and inspect the output for clipping and label overlap when a renderer is available.
+Before submission, compare the five grades and their grounds in the finalized report with the renderer input and output labels. Correct an inconsistent judgment or input from the evidence; do not strengthen the prose to fit the drawing. Follow MathProfile's coordinate, ordinal-scale, and visual checks. Keep assessment status, human/AI attribution, and checking conditions in the report, outside the image. Save and link the SVG, and display it or a rendered preview when supported.

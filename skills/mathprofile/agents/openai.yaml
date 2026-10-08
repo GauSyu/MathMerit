@@ -1,0 +1,4 @@
+interface:
+  display_name: "MathProfile"
+  short_description: "Draw five-axis profiles from supplied contribution grades."
+  default_prompt: "Use $mathprofile to draw a five-axis contribution profile from my grades without changing them."

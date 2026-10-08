@@ -1,0 +1,112 @@
+{
+  "significance": {
+    "zh": "意义",
+    "en": "Significance",
+    "grades": [
+      {
+        "zh": "分量有限",
+        "en": "Limited Value"
+      },
+      {
+        "zh": "确有价值",
+        "en": "A Worthwhile Contribution"
+      },
+      {
+        "zh": "重要进展",
+        "en": "A Major Advance"
+      },
+      {
+        "zh": "重大突破",
+        "en": "A Major Breakthrough"
+      }
+    ]
+  },
+  "knowledge": {
+    "zh": "知识",
+    "en": "Knowledge",
+    "grades": [
+      {
+        "zh": "确知未增",
+        "en": "No Advance in Knowledge"
+      },
+      {
+        "zh": "有所推进",
+        "en": "A Step Forward"
+      },
+      {
+        "zh": "关键突破",
+        "en": "A Decisive Advance"
+      },
+      {
+        "zh": "奠定基础",
+        "en": "Foundational Advance"
+      }
+    ]
+  },
+  "understanding": {
+    "zh": "理解",
+    "en": "Understanding",
+    "grades": [
+      {
+        "zh": "未增理解",
+        "en": "No New Insight"
+      },
+      {
+        "zh": "新添洞见",
+        "en": "Fresh Insight"
+      },
+      {
+        "zh": "揭示关键",
+        "en": "Key Insight"
+      },
+      {
+        "zh": "重构认识",
+        "en": "Understanding Recast"
+      }
+    ]
+  },
+  "methods": {
+    "zh": "方法",
+    "en": "Methods",
+    "grades": [
+      {
+        "zh": "效能未增",
+        "en": "No Improvement"
+      },
+      {
+        "zh": "切实改进",
+        "en": "Effective Refinement"
+      },
+      {
+        "zh": "突破限制",
+        "en": "Limits Overcome"
+      },
+      {
+        "zh": "重塑方法",
+        "en": "Methods Transformed"
+      }
+    ]
+  },
+  "exposition": {
+    "zh": "表达",
+    "en": "Exposition",
+    "grades": [
+      {
+        "zh": "障碍未减",
+        "en": "No Better Access"
+      },
+      {
+        "zh": "局部释明",
+        "en": "Local Clarification"
+      },
+      {
+        "zh": "理清脉络",
+        "en": "The Structure Made Clear"
+      },
+      {
+        "zh": "深入浅出",
+        "en": "Depth Made Accessible"
+      }
+    ]
+  }
+}

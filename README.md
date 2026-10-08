@@ -24,6 +24,10 @@ MathMerit 将[关于数学工作评价的哥白尼倡议（Copernicus）](https:
 
 例如：“用 $mathmerit 帮我判断这篇论文是否值得阅读，以中文给出报告。”
 
+### 只画五维图
+
+如果由你自己确定等级，可以单独安装本仓库的 [`skills/mathprofile`](skills/mathprofile/SKILL.md) 为 `mathprofile`。提供作品标题与五项等级，即可用 `$mathprofile` 画图；它不会重新评价、替你补分，也不会把人工评价标成 AI 推测。支持中文、英文和双语图，不需要安装 MathMerit。MathMerit 的报告也使用这套绘图程序。
+
 ## English
 
 ### Why this skill
@@ -45,3 +49,7 @@ The report first analyzes mathematical contributions and explains supported grad
 Install this directory as `mathmerit` using your assistant's local skill installation mechanism. Assessment rules are included in the skill and require no network retrieval; checking papers and related literature may still require network access. Reports follow the requested language, or the request's language; bilingual output is available on request.
 
 Example: “Use $mathmerit to help me decide whether this paper is worth reading; write the report in English.”
+
+### Draw a profile from your own grades
+
+Install [`skills/mathprofile`](skills/mathprofile/SKILL.md) separately as `mathprofile`. Give `$mathprofile` the work's title and your five grades; it draws the profile without reassessing the work, filling missing grades, or labeling a human assessment as an AI inference. Chinese, English, and bilingual diagrams are supported. MathMerit is not required for standalone use; its reports reuse the same renderer.

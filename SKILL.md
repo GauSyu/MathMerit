@@ -9,7 +9,7 @@ MathMerit implements Copernicus as a self-contained skill to help human mathemat
 
 ## Apply the built-in rules
 
-Read [profile-format.md](references/profile-format.md) before assessing. It contains the principles, complete bilingual criteria for all five contribution dimensions, execution guidance, reading levels, report format, and drawing requirements. These bundled rules govern the assessment; no retrieval of Copernicus is required. Literature searches may still be needed to establish the work's contribution. Use [profile-grid.svg](assets/profile-grid.svg) when the report qualifies for a diagram.
+Read [profile-format.md](references/profile-format.md) before assessing. It contains the principles, complete bilingual criteria for all five contribution dimensions, execution guidance, reading levels, report format, and drawing requirements. These bundled rules govern the assessment; no retrieval of Copernicus is required. Literature searches may still be needed to establish the work's contribution. For an eligible diagram, use the separate [MathProfile skill](skills/mathprofile/SKILL.md) and its bundled renderer; pass the finalized grades without re-assessment.
 
 Use the requested language, otherwise the request's language, defaulting to English when unspecified. Produce bilingual output only on request. Apply the choice to the report, status labels, and diagram; use the grade names in the built-in tables.
 
