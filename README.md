@@ -16,10 +16,10 @@ The reading-selection report gives a recommendation with reasons for and against
 
 [Copernicus](https://github.com/GauSyu/Copernicus) is an independent, human-facing proposal for evaluating mathematical contributions. MathMerit draws on its five dimensions and grade criteria; the two projects maintain different purposes, reports, and diagram templates. MathMerit's diagram displays AI inferences for reading selection, not a Copernicus contribution assessment.
 
-A fixed copy of the proposal is bundled in [English](references/copernicus/Copernicus.en.md) and [Chinese](references/copernicus/Copernicus.zh.md), with its source commit and file hashes in [source.json](references/copernicus/source.json). These are imported reference copies, not a second place to edit the proposal. Update the proposal in Copernicus, then deliberately refresh and check the skill's dependency. Reading recommendations remain specific to MathMerit.
+Each assessment retrieves the latest [English](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.en.md) or [Chinese](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.zh.md) proposal from Copernicus and records the exact commit used. MathMerit keeps no copy of the proposal. Reading recommendations remain specific to MathMerit.
 
 ## Use
 
-Install this directory as `mathmerit` using your assistant's local skill installation mechanism. The skill is self-contained: English use needs no Chinese reading, separate checkout, or network fetch of Copernicus. Reports follow the requested language, or the request's language; bilingual output is available on request.
+Install this directory as `mathmerit` using your assistant's local skill installation mechanism. Assessments require network access to retrieve the current Copernicus criteria; English use needs only the English edition, with no separate checkout. Reports follow the requested language, or the request's language; bilingual output is available on request.
 
 Example: “Use $mathmerit to help me decide whether this paper is worth reading; write the reading-selection report in English.”

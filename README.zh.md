@@ -16,10 +16,10 @@
 
 [Copernicus](https://github.com/GauSyu/Copernicus) 是独立的、面向人类的数学贡献评价倡议。MathMerit 参考其五个维度和等级判据；两者的目的、报告及图模板分别维护。MathMerit 的图呈现供阅读筛选参考的 AI 推测，不是 Copernicus 的贡献评价图。
 
-技能附带固定版本的[英文正文](references/copernicus/Copernicus.en.md)和[中文正文](references/copernicus/Copernicus.zh.md)，来源提交与文件校验值记录在 [source.json](references/copernicus/source.json)。这些是导入的参考副本，不是另一个正文编辑入口。倡议先在 Copernicus 修改，再按需更新并检查技能依赖。阅读推荐规则由 MathMerit 自行维护。
+每次评价从 Copernicus 获取最新的[英文正文](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.en.md)或[中文正文](https://github.com/GauSyu/Copernicus/blob/main/Copernicus.zh.md)，并在报告中记录实际采用的提交版本。MathMerit 不保留倡议副本。阅读推荐规则由 MathMerit 自行维护。
 
 ## 使用
 
-使用助手支持的本地技能安装方式，将本目录安装为 `mathmerit`。技能所需文件已包含在内：英文使用无须读取中文、另行下载 Copernicus 或联网获取判据。报告采用指定语言，未指定时跟随请求语言；需要双语时明确提出即可。
+使用助手支持的本地技能安装方式，将本目录安装为 `mathmerit`。评价时需要联网获取 Copernicus 的最新判据；英文使用只需英文正文，无须另行克隆仓库。报告采用指定语言，未指定时跟随请求语言；需要双语时明确提出即可。
 
 例如：“用 $mathmerit 帮我判断这篇论文是否值得阅读，以中文输出筛选报告。”
