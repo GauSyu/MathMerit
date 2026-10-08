@@ -1,4 +1,4 @@
-# Assessment report and contribution grid
+# Reading-selection report and supporting contribution grid
 
 Read the edition of Copernicus needed for the output language through the links in SKILL.md; English assessment requires only the English edition. Its grade definitions and names govern all five dimensions; this reference does not maintain a second scale.
 
@@ -49,22 +49,34 @@ For Significance, explain which mathematical questions or research conditions ar
 
 ## Reliability of AI judgments
 
-These are precautionary reporting rules, not measured accuracy rates. Separate source-grounded observations from inferred grades. Mark each AI-assigned grade as **AI inference / AI 推测**. In the relevant report entry, additionally label the following **Unreliable; for reference only / 不可信，仅供参考** and briefly explain the specific limit:
+Reliability concerns a particular inference and its evidence, not a dimension as a whole. Mark AI-assigned grades as **AI inference / AI 推测**. In each entry, distinguish the source-grounded observation from the inference that supports the grade; do not treat model confidence or agreement as verification.
 
-- **Significance:** AI judgments of mathematical weight and community attention are not dependable authority, even when the underlying consequences are accurately described.
-- **Exposition:** AI judgments of human readability cannot be inferred from its own fluent summary or ability to reconstruct the text. This applies to low as well as high grades; concrete textual observations remain separately inspectable.
-- **Understanding:** claims reaching Key Insight or Understanding Recast require judgments of conceptual depth that AI may confuse with its own reconstruction or a new presentation.
-- **Knowledge and Methods:** apply the same warning to foundational, originality, or capability claims that go beyond the directly checked comparisons. Concrete changes in conclusions, assumptions, procedures, or resources are more readily auditable, but this does not certify their grade or the full proof.
+The following require particular scrutiny; they are risk indicators, not measured accuracy rankings:
 
-Keep attributed human judgments distinct; do not relabel them as AI judgments or upgrade an individual opinion into community endorsement. A warning belongs beside the affected grade and in the report’s limits, not on the diagram. It is not permission to invent a grade: absent grounds for any dimension, withhold the assessment. A supported but fallible interpretive judgment can be reported with the warning; a missing basis cannot. Missing grounds for a higher grade alone do not block a supported lower grade. Base reading advice on inspectable benefits and costs, not on the warned grade itself.
+- **Significance:** moving from established consequences to claims about mathematical weight or the community’s priorities.
+- **Exposition:** moving from observable textual choices to claims about human comprehension and reading effort. The AI’s fluent summary or reconstruction cannot establish those effects, whether the proposed grade is high or low.
+- **Understanding:** attributing conceptual depth or a reorganization of understanding to the work rather than to an explanation supplied by the evaluator, especially for the upper two grades.
+- **Knowledge and Methods:** inferring foundational importance, originality, or broad capability gains beyond checked comparisons. Concrete changes in conclusions, assumptions, procedures, or resources are more readily auditable; that does not certify the full proof or the grade.
+
+When an inference exceeds what AI can reasonably establish, label that claim **Unreliable; for reference only / 不可信，仅供参考**, explain the specific limit, and flag the grade if it depends on that inference. Do not discard separately supported observations or give a dimension a blanket reliability endorsement. Keep attributed human judgments distinct without converting an individual opinion into community endorsement. Warnings belong beside the affected claims and grades in the report, not on the diagram.
+
+A warning does not permit an invented grade: absent grounds for any dimension, withhold the assessment. A supported but fallible interpretation can be reported with its limitation; missing evidence cannot be replaced by a warning. Missing grounds for a higher grade alone do not block a supported lower grade. Reading advice must rest on inspectable benefits and costs, not on an unreliable grade or claim.
 
 ## Report
 
 Submit only when all five dimensions have supported grades. Otherwise return only a brief “Assessment withheld: insufficient grounds” notice (Chinese: “不予评价：依据不足”) in the selected language, identifying the missing grounds and what would resolve them. Do not deliver grades, partial assessments, evaluative reading advice, or a diagram. Labeling a judgment provisional or conditional does not waive this requirement.
 
-Begin with the assessment-status label required by SKILL.md. For Chinese output, use **评价状态：未经过共同体评价**; bilingual output includes both labels. Identify the assessment type as **Contribution at the time**, in the report’s language. Identify the assessed unit and included works/versions, Copernicus document date, assessment date, historical context, and baseline evidence. State documented evaluation sources and scope where available.
+Title the document **<Work> — Reading-selection report** (Chinese: **《工作名称》阅读筛选报告**). Open with the following notice in the report’s language:
 
-Present the report’s five grades and chart as provisional AI estimates, preserving any explicitly attributed human input. Give five brief entries in diagram order: Significance, Knowledge, Understanding, Methods, Exposition. Each needs its named grade, concrete reasons for its level, evidence locators, applicable reliability labels, and material limits; shared checking notes need not be repeated. Finalize these five grades as the single record from which all displayed grades and ring positions are derived. A high grade must be supported by the reasoning for that dimension, not praise attached to another one. Include the ordered grade names so the diagram's positions are interpretable. Retain material gains or losses that the grades omit.
+> **Purpose: This report serves only to help mathematicians select works worth reading. Its five-dimensional grades are AI inferences for that purpose and must not be used as judgments of the work’s mathematical quality.**
+
+> **用途：本报告仅帮助数学家筛选值得一看的工作；五维等级是服务于阅读取舍的 AI 推测，不应作为对数学工作质量的评定。**
+
+Then include the assessment-status label required by SKILL.md. For Chinese output, use **评价状态：未经过共同体评价**; bilingual output includes both languages. Documented community input does not change the report’s limited purpose.
+
+Complete the evidence comparison and grade justifications before choosing the recommendation; the order of presentation must not predetermine the grades. Lead with the reading recommendation and the concrete reasons for and against reading, following the rules below. The five-dimensional analysis and diagram support that decision; they are not the report’s overall verdict. Identify the work or bounded series and versions, intended readership, reading purpose and context, Copernicus document date, and report date. Identify the five-dimensional analysis as **Contribution at the time** and record its historical context and baseline evidence separately. State documented evaluation sources and scope where available.
+
+After the reading recommendation and reasons, present the report’s five grades and chart as supporting provisional AI estimates, preserving any explicitly attributed human input. Give five brief entries in diagram order: Significance, Knowledge, Understanding, Methods, Exposition. Each needs its named grade, concrete reasons for its level, evidence locators, applicable reliability labels, and material limits; shared checking notes need not be repeated. Finalize these five grades as the single record from which all displayed grades and ring positions are derived. A high grade must be supported by the reasoning for that dimension, not praise attached to another one. Include the ordered grade names so the diagram's positions are interpretable. Retain material gains or losses that the grades omit.
 
 ## Reading recommendation
 
@@ -81,7 +93,7 @@ Explain why the balance of reasons meets the chosen level. These are reading rec
 
 Human attention is limited. Assess how readers can locate the actual addition, understand its role, and inspect its grounds; the AI’s reconstruction does not count as help supplied by the text. Exposition grades measure comparative gains, not absolute readability. Distinguish learning a result, acquiring an explanation or technique, and checking a claim. A claim’s importance can motivate checking without establishing its contribution. If a Major Breakthrough grade accompanies Not Worth Reading in the same period for relevant readers, resolve the conflicting reasons before submission; do not automatically inflate the recommendation or downgrade the grade. Not needing the whole paper, preferring another exposition, or lacking prerequisites is not a blanket judgment of no reading value.
 
-For Strongly Recommended or Worth a Look, briefly identify the gains, suitable entry points, and necessary background; give a dependency-aware order for a series. For Read with Caution, explain the risks and any bounded reading that may be worthwhile without promising a payoff. For Not Worth Reading, stop after the reasons and overall judgment; add no reading route or speculative consolation benefits.
+For Strongly Recommended or Worth a Look, briefly identify the gains, suitable entry points, and necessary background; give a dependency-aware order for a series. For Read with Caution, explain the risks and any bounded reading that may be worthwhile without promising a payoff. For Not Worth Reading, the reading-advice section contains only the reasons and overall judgment; add no reading route or speculative consolation benefits.
 
 Close every report or insufficient-grounds notice with **Model: <actual model identifier> · Skill: [MathMerit](https://github.com/GauSyu/MathMerit)**, translated into the report’s language. Use the model identity exposed by the runtime or explicitly supplied for this run; do not infer it from the app name, skill metadata, or an earlier report. If the version cannot be confirmed, state that explicitly rather than inventing it. Identify distinct contributing models if applicable. The signature names the report generator, not the author of the work or a human evaluator.
 

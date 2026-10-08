@@ -33,8 +33,8 @@ The five-axis diagram displays distinct contributions through named grades. Grad
 
 ## MathMerit: the AI skill
 
-[MathMerit](SKILL.md) produces a reading-selection report for human mathematicians: provisional five-dimensional grades and reasons, a five-axis diagram, explicit limits of AI judgment, reasons for and against reading, and one overall reading recommendation. The report identifies the model used and cites this repository. Its purpose is to help readers decide where to spend attention; it does not certify mathematical merit. See the [report and recommendation rules](references/profile-format.md).
+[MathMerit](SKILL.md) produces a reading-selection report for human mathematicians: provisional five-dimensional grades and reasons, a five-axis diagram, explicit limits of AI judgment, reasons for and against reading, and one overall reading recommendation. The report identifies the model used and cites this repository. The report serves only to help mathematicians select works worth reading. Its five-dimensional grades are AI inferences for that purpose and must not be used as judgments of the work’s mathematical quality. See the [report and recommendation rules](references/profile-format.md).
 
 Install this directory as `mathmerit` using your assistant's local skill installation mechanism. The English method, instructions, and diagram template support English use without consulting the Chinese edition; no separate language package is needed. Output follows your requested language, or the language of your request. Bilingual output is available on request.
 
-Example: “Use $mathmerit to assess this paper in English.”
+Example: “Use $mathmerit to help me decide whether this paper is worth reading; write the reading-selection report in English.”
