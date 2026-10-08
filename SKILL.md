@@ -1,19 +1,17 @@
 ---
 name: mathmerit
-description: "Help mathematicians select mathematical works or interdependent series worth reading, using Copernicus for supported contribution grades and evidence-based reading recommendations."
+description: "Help mathematicians select mathematical works or interdependent series worth reading, applying its built-in implementation of Copernicus to contribution analysis and evidence-based reading recommendations."
 ---
 
 # MathMerit
 
-Help human mathematicians decide whether a work merits their reading time. Use Copernicus for contribution grades and MathMerit's reading criteria for recommendations. The reading-selection purpose does not change contribution-grade thresholds. Reports are AI inferences, not assessments of mathematical quality or substitutes for expert judgment.
+MathMerit implements Copernicus as a self-contained skill to help human mathematicians decide whether a work merits their reading time. Apply its built-in contribution criteria, then weigh reading benefits and costs. The reading-selection purpose does not change contribution-grade thresholds. Reports are AI inferences, not assessments of mathematical quality or substitutes for expert judgment.
 
-## Load the criteria
+## Apply the built-in rules
 
-At each assessment's start, resolve the current `main` commit of [Copernicus](https://github.com/GauSyu/Copernicus) through `GET https://api.github.com/repos/GauSyu/Copernicus/commits/main` (field `sha`). Read `https://raw.githubusercontent.com/GauSyu/Copernicus/<sha>/Copernicus.en.md` or `Copernicus.zh.md` for the report's language; bilingual reports use both at the same commit. Record that SHA and commit-specific links and use that version throughout. Keep no proposal copies in this repository; never substitute stale text or memory. Upstream dimensions and grade criteria govern any grade-specific guidance here. A retrieval failure or incompatible change blocks affected grading or drawing, not independently supported reading advice; disclose the limitation.
+Read [profile-format.md](references/profile-format.md) before assessing. It contains the principles, complete bilingual criteria for all five contribution dimensions, execution guidance, reading levels, report format, and drawing requirements. These bundled rules govern the assessment; no retrieval of Copernicus is required. Literature searches may still be needed to establish the work's contribution. Use [profile-grid.svg](assets/profile-grid.svg) when the report qualifies for a diagram.
 
-Read [profile-format.md](references/profile-format.md) before assessing. It contains the execution rules, reading levels, report format, and drawing requirements; use it throughout. Use [profile-grid.svg](assets/profile-grid.svg) when the report qualifies for a diagram.
-
-Use the requested language, otherwise the request's language, defaulting to English when unspecified. Produce bilingual output only on request. Apply the choice to the report, status labels, and diagram; take grade names from the corresponding Copernicus edition.
+Use the requested language, otherwise the request's language, defaulting to English when unspecified. Produce bilingual output only on request. Apply the choice to the report, status labels, and diagram; use the grade names in the built-in tables.
 
 ## Assess and report
 

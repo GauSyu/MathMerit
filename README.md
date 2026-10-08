@@ -12,7 +12,7 @@
 
 ### 用途
 
-MathMerit 是帮助数学家筛选值得阅读工作的 AI 技能。它采用 [Copernicus](https://github.com/GauSyu/Copernicus) 的五个维度与等级判据分析数学贡献，并结合阅读受益与投入给出建议。报告中的评级与图表属于 AI 推测，仅供阅读筛选参考，不能代替专家判断。若你已对某项工作感兴趣，不应仅凭本报告放弃阅读。
+MathMerit 将[关于数学工作评价的哥白尼倡议（Copernicus）](https://github.com/GauSyu/Copernicus) 转化为可独立执行的 AI 技能，帮助数学家筛选值得阅读的工作。技能内置五个维度的完整等级判据及其执行方法，并结合阅读收益与投入给出建议。报告中的评级与图表属于 AI 推测，仅供阅读筛选参考，不能代替专家判断。若你已对某项工作感兴趣，不应仅凭本报告放弃阅读。
 
 ### 报告内容
 
@@ -20,7 +20,7 @@ MathMerit 是帮助数学家筛选值得阅读工作的 AI 技能。它采用 [C
 
 ### 使用
 
-使用助手支持的本地技能安装方式，将本目录安装为 `mathmerit`。贡献定级需要联网读取 Copernicus 的判据。报告采用指定语言，未指定时跟随请求语言；需要双语时明确提出即可。
+使用助手支持的本地技能安装方式，将本目录安装为 `mathmerit`。评价规则随技能提供，无需联网获取；查证论文与相关文献时可能需要联网。报告采用指定语言，未指定时跟随请求语言；需要双语时明确提出即可。
 
 例如：“用 $mathmerit 帮我判断这篇论文是否值得阅读，以中文给出报告。”
 
@@ -34,7 +34,7 @@ As AI4Math develops rapidly and papers multiply, which deserve a mathematician's
 
 ### Purpose
 
-MathMerit is an AI skill that helps mathematicians select works worth reading. It uses the five dimensions and grade criteria of [Copernicus](https://github.com/GauSyu/Copernicus) to analyze mathematical contributions, and weighs reading benefits against the required effort to make recommendations. The report's grades and diagram are AI inferences for reading selection only and cannot replace expert judgment. If a work already interests you, do not let this report alone dissuade you from reading it.
+MathMerit implements [the Copernican initiative for assessing mathematical work](https://github.com/GauSyu/Copernicus) as a self-contained AI skill to help mathematicians select works worth reading. It includes the complete grade criteria for all five dimensions and guidance for applying them, and weighs reading benefits against the required effort to make recommendations. The report's grades and diagram are AI inferences for reading selection only and cannot replace expert judgment. If a work already interests you, do not let this report alone dissuade you from reading it.
 
 ### Report contents
 
@@ -42,6 +42,6 @@ The report first analyzes mathematical contributions and explains supported grad
 
 ### Use
 
-Install this directory as `mathmerit` using your assistant's local skill installation mechanism. Contribution grading requires network access to Copernicus’s criteria. Reports follow the requested language, or the request's language; bilingual output is available on request.
+Install this directory as `mathmerit` using your assistant's local skill installation mechanism. Assessment rules are included in the skill and require no network retrieval; checking papers and related literature may still require network access. Reports follow the requested language, or the request's language; bilingual output is available on request.
 
 Example: “Use $mathmerit to help me decide whether this paper is worth reading; write the report in English.”
