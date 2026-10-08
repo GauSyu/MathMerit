@@ -18,6 +18,8 @@ MathMerit 支持以人的认识为中心的人机协作数学评价：帮助人�
 
 AI 可以独立交付有根据的分析和阅读建议，不以人工审查为前置门槛。人在任何具体判断中都可补充材料、核对比较、提出阅读经验或质疑理由。报告说明实际参与和核查范围；人的身份、赞同或 AI 的确信都不能替代理由。
 
+评价前，AI 应先读清承载贡献的论证，理清关键依赖，查证前人成果与方法，比较实际增益，并检验自己的判断。足以改变结论、且能够合理查证的问题，应先查证再定级；尚未解决的环节须说明其影响。阅读筛选可以范围较小，但不能以“仅供参考”代替范围内本可完成的准备。
+
 ### 输出与接续
 
 完整的阅读筛选报告分析贡献，说明等级的根据、证据与局限，五项均有依据时可附五轴图；随后权衡阅读收益与投入，给出阅读建议。保留四档建议：强烈推荐、值得一看、谨慎阅读、不值一提；部分维度无法定级，不妨碍有独立依据的阅读建议。未知不能填成最低等级。
@@ -53,6 +55,8 @@ MathMerit supports human-centered mathematical assessment with AI: it helps peop
 The skill applies the principles of [Copernicus](https://github.com/GauSyu/Copernicus) through its five-dimensional scheme. Knowledge, Understanding, Methods, and Exposition distinguish contributions; Significance judges their weight. Grades do not form a total score. The complete criteria and application guidance are bundled; reading recommendations separately weigh concrete benefits against necessary effort. See the [source and rules revision](references/source-revision.md).
 
 AI can deliver supported analysis and reading advice without prior human review. People can join at any particular judgment by supplying material, checking comparisons, contributing reading experience, or challenging reasons. Reports describe actual participation and checking scope; neither human identity or agreement nor AI confidence replaces reasons.
+
+Before judging, AI should read the contribution-bearing argument, trace decisive dependencies, check prior results and methods, compare actual gains, and test its own judgment. Reasonably accessible questions that could change the conclusion should be investigated before grading; unresolved links must be tied to the judgments they affect. Reading selection can be bounded, but “for reference only” does not replace preparation that can be completed within that scope.
 
 ### Outputs and continuation
 
